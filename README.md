@@ -114,3 +114,17 @@ For each report, you should identify a prevention program or practice from the [
 * Study findings: The research found that students in the schools receiving the treatment had lower cigarette smoking rates than students in the control group schools. The patterns persisted at each of the follow-up points.
 
 * Research and policy implications: The study was carried out in the United Kingdom and replication projects would be necessary to determine the generalizability of the results to other settings. The results do support the idea that school-based interventions that are delivered outside the classroom and with peer support may lead to lower rates of smoking initiation.
+
+### Lesson 1 - Tuesday 9/1/26
+
+* Suppose that the local police chief decides to open a new neighborhood police station (let's say at the beginning of 2018).
+* Her goal is to reduce (prevent) crime in the neighborhood.
+* You are an analyst at the police department.
+* The chief comes to you after the new neighborhood police station has been open for 1 year (let's say at the end of 2018).
+* She asks you whether the neighborhood police station has had an impact on robberies in the neighborhood.
+* After checking the police records, you report back to her that there were 93 robberies in the neighborhood during the year before the station opened (2017).
+* And, there were 110 robberies in the neighborhood during the year after the station opened (an 18% increase from 2017 to 2018).
+* Does this mean that the station's opening led to more robberies in the neighborhood?
+* A complicating factor arises from the rate at which robberies are reported to the police.
+* Let's take a look at the National Crime Victimization Survey [report](https://bjs.ojp.gov/content/pub/pdf/cv18.pdf) for the year 2018.
+* After reviewing the robbery reporting rates, how might you describe the results to the police chief?
