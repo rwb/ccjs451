@@ -142,8 +142,8 @@ For each report, you should identify a prevention program or practice from the [
 * We interpret this by saying the number of robberies increased by about 18.3%.
 * Now, let's think about what would happen to our estimate of the number of robberies if we were to scale them in a way that is proportional to the NCVS reporting rates for the same years:
 
-| Year    | Scaled Up # of Robberies | |
-| :---------- |---:|---:|
+| Year    | Scaled Up # of Robberies | 
+| :---------- |---:|
 | 2017   | 93/0.490 = 189.796 |
 | 2018  | 110/0.626 = 175.719 |
 
