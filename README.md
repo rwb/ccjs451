@@ -138,8 +138,8 @@ For each report, you should identify a prevention program or practice from the [
 | 2017  | 93  |  49.0  |
 | 2018  | 110  |  62.6  |
 
-* Last time we discussed how the estimated percent change statistic was $\frac{110-93}{93} \times 100 = +18.3$.
-* We interpret this by saying the number of robberies increased by about 18.3%.
+* Last time we discussed how the estimated percent change statistic was $\frac{110-93}{93} \times 100 = +18.280$.
+* We interpret this by saying the number of robberies increased by about 18.280%.
 * Now, let's think about what would happen to our estimate of the number of robberies if we were to scale them in a way that is proportional to the NCVS reporting rates for the same years:
 
 | Year    | Scaled Up # of Robberies | 
@@ -147,14 +147,14 @@ For each report, you should identify a prevention program or practice from the [
 | 2017   | 93/0.490 = 189.796 |
 | 2018  | 110/0.626 = 175.719 |
 
-* So, the percent change statistic here is $\frac{175.719-189.796}{189.796} \times 100 = -7.4$.
-* If the reporting rates (nrr's) in the neighborhood are equal to the NCVS (personal) robbery reporting rates, then the number of robberies in the neighborhood decreased by 7.4%.
-* Both the +18.3% and -7.4% statistics are based on what is called an *invariance assumption* ([Charles Manski and John Pepper, 2018](https://direct.mit.edu/rest/article/100/2/232/58452/How-Do-Right-to-Carry-Laws-Affect-Crime-Rates).
+* So, the percent change statistic here is $\frac{175.719-189.796}{189.796} \times 100 = -7.417$.
+* If the reporting rates (nrr's) in the neighborhood are equal to the NCVS (personal) robbery reporting rates, then the number of robberies in the neighborhood decreased by 7.417%.
+* Both the +18.280% and -7.417% statistics are based on what is called an *invariance assumption* ([Charles Manski and John Pepper, 2018](https://direct.mit.edu/rest/article/100/2/232/58452/How-Do-Right-to-Carry-Laws-Affect-Crime-Rates)).
 
 | Estimate    | Invariance Assumption  | 
 | ----------: |---:|
-| +18.3%   |  nrr in 2017 = nrr in 2018 |
-| -7.4%    |  (nrr in 2017 = NCVS rr in 2017) & (nrr in 2018 = NCVS rr in 2018) |
+| +18.280%   |  nrr in 2017 = nrr in 2018 |
+| -7.417%    |  (nrr in 2017 = NCVS rr in 2017) & (nrr in 2018 = NCVS rr in 2018) |
 
 * A key feature of this analysis is that the invariance assumptions cannot be easily tested with existing data. Why not?
 * Suppose I tell you that whenever we've tried to measure the (personal) robbery reporting rate we've gotten a number between 35% and 75%.
@@ -165,3 +165,24 @@ For each report, you should identify a prevention program or practice from the [
 | :---------- |---:|---:|
 | 2017   | 93/0.75 = 124.000 | 93/0.35 = 265.714 | 
 | 2018  | 110/0.75 = 146.667 | 110/0.35 = 314.286 |
+
+* It follows that the bounds on the percent change statistic are now:
+
+| Bounds    | % Change Statistic  |
+| :---------- |---:|
+| Lower Bound   | (146.667-265.714)/265.714 x 100 = -44.803%  | 
+| Upper Bound  | (314.286-124.000)/124.000 x 100 = +153.457%  |
+
+* Based on the bounded variation assumptions, the percent change statistic could be as small as -44.803% or as large as +153.457%.
+* The data, such as they are, are not strong enough to tell us whether the number of robberies increased, decreased or stayed about the same unless we are willing to make some strong (and untestable assumption).
+* This leads to Manski's idea that data + assumptions = conclusions
+* When conclusions are based more on data and less on assumptions, we say the conclusions are more *credible*.
+* When conclusions are based more on assumptions and less on data, we say the conclusions are less credible.
+* Manski points out that credibility is itself a subjective idea. However, as scientists, we should strive to maximize credibility.
+* There are some other assumptions being made here. Most notably, we have to make strong assumptions about the hierarchy rule, police recording norms, and no commercial robberies.
+* Practice problem: suppose the neighborhood police station might also affect the number of residential burglaries in the neighborhood. Look up the information to calculate the percent change statistic for residential burglaries using the same two invariance assumptions discussed above. Then, use the range of [35%,63%] to calculate the bounded variation range of the percent change statistic.
+
+| Year    | # of Burglaries |
+| :---------- |---:|
+| 2017  | 207  |
+| 2018  | 179  |
