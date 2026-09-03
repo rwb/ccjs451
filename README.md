@@ -135,8 +135,8 @@ For each report, you should identify a prevention program or practice from the [
 
 | Year    | # of Robberies | NCVS Robbery Reporting Rate |
 | :---------- |---:|---:|
-| 2017   | 93  |  49.0%    |
-| 2018  | 110  |  62.6%    |
+| 2017  | 93  |  49.0  |
+| 2018  | 110  |  62.6  |
 
 * Last time we discussed how the estimated percent change statistic was $\frac{110-93}{93} \times 100 = +18.3$.
 * We interpret this by saying the number of robberies increased by about 18.3%.
