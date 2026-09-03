@@ -128,3 +128,24 @@ For each report, you should identify a prevention program or practice from the [
 * A complicating factor arises from the rate at which robberies are reported to the police.
 * Let's take a look at the National Crime Victimization Survey [report](https://bjs.ojp.gov/content/pub/pdf/cv18.pdf) for the year 2018.
 * After reviewing the robbery reporting rates, how might you describe the results to the police chief?
+
+### Lesson 2 - Thursday 9/3/26
+
+* We return to the neighborhood police station example we discussed in Lesson 1:
+
+| Year    | # of Robberies | NCVS Robbery Reporting Rate |
+| :---------- |---:|---:|
+| 2017   | 93    49.0%    |
+| 2018  | 110    62.6%    |
+
+* Last time we discussed how the estimated percent change statistic was $\frac{110-93}{93} \times 100 = +18.3\%$.
+* Now, let's think about what would happen to our estimate of the number of robberies if we were to scale them in a way that is proportional to the NCVS reporting rates for the same years:
+
+| Year    | Scaled Up # of Robberies | |
+| :---------- |---:|---:|
+| 2017   | 93/0.490 = 189.796 |
+| 2018  | 110/0.626 = 175.719 |
+
+* So, the percent change statistic here is $\frac{175.719-189.796}{189.796} \times 100 = -7.4\%$.
+
+
