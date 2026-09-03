@@ -182,7 +182,7 @@ For each report, you should identify a prevention program or practice from the [
 * There are some other assumptions being made here. Most notably, we have to make strong assumptions about the hierarchy rule, police recording norms, and no commercial robberies.
 * Practice problem: suppose the neighborhood police station might also affect the number of residential burglaries in the neighborhood. Look up the information to calculate the percent change statistic for residential burglaries using the same two invariance assumptions discussed above. Then, use the range of [35%,63%] to calculate the bounded variation range of the percent change statistic.
 
-| Year    | # of Burglaries |
+| Year    | # of Residential Burglaries |
 | :---------- |---:|
 | 2017  | 207  |
 | 2018  | 179  |
