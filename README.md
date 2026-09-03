@@ -148,6 +148,10 @@ For each report, you should identify a prevention program or practice from the [
 | 2018  | 110/0.626 = 175.719 |
 
 * So, the percent change statistic here is $\frac{175.719-189.796}{189.796} \times 100 = -7.4$.
-* If the reporting rates in the neighborhood are equal to the NCVS (personal) robbery reporting rates, then the number of robberies in the neighborhood decreased by 7.4%.
+* If the reporting rates (nrr's) in the neighborhood are equal to the NCVS (personal) robbery reporting rates, then the number of robberies in the neighborhood decreased by 7.4%.
+* Both the +18.3% and -7.4% statistics are based on what is called an *invariance assumption*.
 
-
+| Estimate    | Invariance Assumption  | 
+| ----------: |---:|
+| +18.3%   |  nrr in 2017 = nrr in 2018 |
+| -7.4%    |  nrr in 2017 = NCVS rr in 2017 & nrr in 2018 = NCVS rr in 2018 |
