@@ -149,9 +149,19 @@ For each report, you should identify a prevention program or practice from the [
 
 * So, the percent change statistic here is $\frac{175.719-189.796}{189.796} \times 100 = -7.4$.
 * If the reporting rates (nrr's) in the neighborhood are equal to the NCVS (personal) robbery reporting rates, then the number of robberies in the neighborhood decreased by 7.4%.
-* Both the +18.3% and -7.4% statistics are based on what is called an *invariance assumption*.
+* Both the +18.3% and -7.4% statistics are based on what is called an *invariance assumption* ([Charles Manski and John Pepper, 2018](https://direct.mit.edu/rest/article/100/2/232/58452/How-Do-Right-to-Carry-Laws-Affect-Crime-Rates).
 
 | Estimate    | Invariance Assumption  | 
 | ----------: |---:|
 | +18.3%   |  nrr in 2017 = nrr in 2018 |
-| -7.4%    |  nrr in 2017 = NCVS rr in 2017 & nrr in 2018 = NCVS rr in 2018 |
+| -7.4%    |  (nrr in 2017 = NCVS rr in 2017) & (nrr in 2018 = NCVS rr in 2018) |
+
+* A key feature of this analysis is that the invariance assumptions cannot be easily tested with existing data. Why not?
+* Suppose I tell you that whenever we've tried to measure the (personal) robbery reporting rate we've gotten a number between 35% and 75%.
+* If we assume that the nrr in each year could lie in this interval then what can we learn about the percent change statistic?
+* This analysis is what Manski and Pepper would call a *bounded variation* analysis:
+
+| Year    | Lower Bound Estimated # of Robberies  | Upper Bound Estimated # of Robberies | 
+| :---------- |---:|---:|
+| 2017   | 93/0.75 = 124.000 | 93/0.35 = 265.714 | 
+| 2018  | 110/0.75 = 146.667 | 110/0.35 = 314.286 |
