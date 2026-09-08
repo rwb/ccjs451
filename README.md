@@ -149,7 +149,7 @@ For each report, you should identify a prevention program or practice from the [
 
 * So, the percent change statistic here is $\frac{175.719-189.796}{189.796} \times 100 = -7.417$.
 * If the reporting rates in the neighborhood (nrr's) are equal to the NCVS (personal) robbery reporting rates, then the number of robberies in the neighborhood decreased by 7.417%.
-* Both the +18.280% and -7.417% statistics are based on what is called an *invariance assumption* ([Charles Manski and John Pepper, 2018](https://direct.mit.edu/rest/article/100/2/232/58452/How-Do-Right-to-Carry-Laws-Affect-Crime-Rates)).
+* Both the +18.280% and -7.417% statistics are based on what is called an *invariance assumption* ([Charles Manski and John Pepper, 2018](https://direct.mit.edu/rest/article/100/2/232/58452/How-Do-Right-to-Carry-Laws-Affect-Crime-Rates)). *Note*: you are not being asked to read this article; I am linking to it in case you want to know more.
 
 | Estimate    | Invariance Assumption  | 
 | ----------: |---:|
@@ -234,3 +234,21 @@ For each report, you should identify a prevention program or practice from the [
 
 * What this means is that if we are only willing to assume that the reporting rate is a number between 35% and 63%, the data are not strong enough to tell us whether the number of burglaries increased or decreased from 2017 to 2018; we would need to narrow down the reporting rate range to develop a stronger conclusion.
 ---
+
+#### Comparing One Place to Another Place
+
+* Thus far, we've been concerned with the problem of comparing a single neighborhood at two time points.
+* Sometimes, we want to compare two neighborhoods, two cities, or two states to each other at the same time point.
+* Similar issues arise.
+* If the reporting rate for a crime can vary over time, it can also vary from place to place (i.e., variability across both space and time).
+* Let's suppose we have 2 states. Based on police statistics, the residential burglary rate for state 1 is 220 residential burglaries per 100,000 persons; for the other state the residential burglary rate is 230 per 100,000 population.
+* These burglary rates are calculated by dividing the number of residential burglaries known to the police by the size of the population.
+* The fraction is then multiplied by 100,000 to get the rate per 100,000 population.
+* We use rates because the 2 states might have different size populations.
+* Of course, we would expect a state with 3M people to have more crimes than a state with 1M people simply because it has more people so we need to adjust for that difference.
+* In state 1, there were 2200 burglaries and a population of 1M people: (2200/1M) x 100,000 = 220 per 100,000 population.
+* In state 2, there were 6900 burglaries and a population of 3M people: (6900/3M) x 100,000 = 230 per 100,000 population.
+* So, the difference between the two rates is 10 per 100,000 population (favoring state 1 since it has a smaller residential burglary rate).
+* This conclusion is based on the invariance assumption that both states have the same report-to-police rate.
+* We could develop a similar bounded variation analysis for this problem.
+* If we assume that the reporting rate for residential burglaries is in the [35%,63%] range, can we say definitively whether state 2 has a higher residential burglary rate than state 2? Why or why not?
