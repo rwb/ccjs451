@@ -251,4 +251,4 @@ For each report, you should identify a prevention program or practice from the [
 * So, the difference between the two rates is 10 per 100,000 population (favoring state 1 since it has a smaller residential burglary rate).
 * This conclusion is based on the invariance assumption that both states have the same report-to-police rate.
 * We could develop a similar bounded variation analysis for this problem.
-* If we assume that the reporting rate for residential burglaries is in the [35%,63%] range, can we say definitively whether state 2 has a higher residential burglary rate than state 2? Why or why not?
+* If we assume that the reporting rate for residential burglaries is in the [35%,63%] range, can we say definitively whether state 2 has a higher residential burglary rate than state 1? Why or why not?
