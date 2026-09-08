@@ -185,6 +185,7 @@ For each report, you should identify a prevention program or practice from the [
 
 * Reminder: you should be thinking about a topic that would be interesting to you for your first prevention report. I will be going over these in more detail next week after the schedule adjustment period concludes.
 * You should also be reading over this [journal article](https://journals.sagepub.com/doi/full/10.1177/0887403415617807?casa_token=fg7HWB9Bk2UAAAAA%3AiWFZ4xe8Zr9C0EV9UfHBu7WEuL6mHvaN9CSweIdXRtxH7Bve0AeBwSgeQ7IbgwensIyg8XJnLWfw)) that I coauthored; I will call this the burglary paper.
+* A magazine called *Science News* wrote up an [article](https://onlinelibrary.wiley.com/doi/epdf/10.1002/scin.5591811205) summarizing an early draft of my paper which might be easier for you to read and understand. 
 * Practice problem: suppose the neighborhood police station might also affect the number of residential burglaries in the neighborhood. Look up the information to calculate the percent change statistic for residential burglaries using the same two invariance assumptions discussed above. Then, use the reporting rate range of [35%,63%] to calculate the bounded variation range of the percent change statistic.
 
 | Year    | # of Residential Burglaries |
@@ -232,3 +233,4 @@ For each report, you should identify a prevention program or practice from the [
 | Upper Bound  | (511.429-328.571)/328.571 x 100 = +55.7%  |
 
 * What this means is that if we are only willing to assume that the reporting rate is a number between 35% and 63%, the data are not strong enough to tell us whether the number of burglaries increased or decreased from 2017 to 2018; we would need to narrow down the reporting rate range to develop a stronger conclusion.
+---
