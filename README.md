@@ -178,11 +178,36 @@ For each report, you should identify a prevention program or practice from the [
 * This leads to Manski's idea that data + assumptions = conclusions
 * When conclusions are based more on data and less on assumptions, we say the conclusions are more *credible*.
 * When conclusions are based more on assumptions and less on data, we say the conclusions are less credible.
-* Manski points out that credibility is itself a subjective idea. However, as scientists, we should strive to maximize credibility.
+* Manski points out that credibility is itself a subjective idea. However, as scientists, we should strive to maximize credibility of scientific findings.
 * There are some other assumptions being made here. Most notably, we have to make strong assumptions about the hierarchy rule, police recording norms, and no commercial robberies.
-* Practice problem: suppose the neighborhood police station might also affect the number of residential burglaries in the neighborhood. Look up the information to calculate the percent change statistic for residential burglaries using the same two invariance assumptions discussed above. Then, use the range of [35%,63%] to calculate the bounded variation range of the percent change statistic.
+
+### Lesson 3 - Tuesday 9/8/26
+
+* At this point, you should be reading over this [journal article](https://journals.sagepub.com/doi/full/10.1177/0887403415617807?casa_token=fg7HWB9Bk2UAAAAA%3AiWFZ4xe8Zr9C0EV9UfHBu7WEuL6mHvaN9CSweIdXRtxH7Bve0AeBwSgeQ7IbgwensIyg8XJnLWfw)) that I coauthored; I will call this the burglary paper.
+* Practice problem: suppose the neighborhood police station might also affect the number of residential burglaries in the neighborhood. Look up the information to calculate the percent change statistic for residential burglaries using the same two invariance assumptions discussed above. Then, use the reporting rate range of [35%,63%] to calculate the bounded variation range of the percent change statistic.
 
 | Year    | # of Residential Burglaries |
 | :---------- |---:|
 | 2017  | 207  |
 | 2018  | 179  |
+
+* The reporting rate range means that we expect the residential burglary reporting rate to be somewhere between 35% and 63%.
+* This range is based on reviewing National Crime Survey and National Crime Victimization Survey estimates of the report-to-police rate for household burglaries since the early 1970s.
+* Based on the [NCVS report](https://bjs.ojp.gov/content/pub/pdf/cv18.pdf) we discussed in class last week (see table 5 on page 8), the estimated report-to-police rate for residential burglaries at the national level in 2017 was 51.1%; in 2018 it was estimated to be 47.9%.
+* However, over the long run, this rate has fluctuated between a low of about 35% and a high of about 63%.
+
+#### Invariance Assumption #1
+
+* The assumption is that the neighborhood reporting rate (nrr) in 2017 is equal to the nrr in 2018.
+* If this invariance assumption is correct then the percent change in the number of residential burglaries was (179-207)/207 x 100 = -13.5% (a 13.5% estimated decline in the number of residential burglaries from 2017 to 2018).
+
+#### Invariance Assumption #2
+
+* The assumption is that the neighborhood reporting rate (nrr) in 2017 is equal to the national estimated reporting rate in 2017; also, the neighborhood reporting rate in 2018 is equal to the national estimated reporting rate in 2018.
+* If this invariance assumption is correct then the estimated number of burglaries in 2017 is 207/0.511 = 405.088.
+* And, the estimated number of burglaries in 2018 is 179/0.479 = 373.695.
+* If this invariance assumption is correct then the percent change in the number of residential burglaries is (373.695-405.088)/405.088 x 100 = -7.7% (a 7.7% estimated decline in the number of residential burglaries from 2017 to 2018.
+
+#### Bounded Variation Analysis
+
+* 
