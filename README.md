@@ -163,8 +163,8 @@ For each report, you should identify a prevention program or practice from the [
 
 | Year    | Lower Bound Estimated # of Robberies  | Upper Bound Estimated # of Robberies | 
 | :---------- |---:|---:|
-| 2017   | 93/0.75 = 124.000 | 93/0.35 = 265.714 | 
-| 2018  | 110/0.75 = 146.667 | 110/0.35 = 314.286 |
+| 2017   | 93/0.750 = 124.000 | 93/0.350 = 265.714 | 
+| 2018  | 110/0.750 = 146.667 | 110/0.350 = 314.286 |
 
 * It follows that the bounds on the percent change statistic are now:
 
@@ -183,7 +183,8 @@ For each report, you should identify a prevention program or practice from the [
 
 ### Lesson 3 - Tuesday 9/8/26
 
-* At this point, you should be reading over this [journal article](https://journals.sagepub.com/doi/full/10.1177/0887403415617807?casa_token=fg7HWB9Bk2UAAAAA%3AiWFZ4xe8Zr9C0EV9UfHBu7WEuL6mHvaN9CSweIdXRtxH7Bve0AeBwSgeQ7IbgwensIyg8XJnLWfw)) that I coauthored; I will call this the burglary paper.
+* Reminder: you should be thinking about a topic that would be interesting to you for your first prevention report. I will be going over these in more detail next week after the schedule adjustment period concludes.
+* You should also be reading over this [journal article](https://journals.sagepub.com/doi/full/10.1177/0887403415617807?casa_token=fg7HWB9Bk2UAAAAA%3AiWFZ4xe8Zr9C0EV9UfHBu7WEuL6mHvaN9CSweIdXRtxH7Bve0AeBwSgeQ7IbgwensIyg8XJnLWfw)) that I coauthored; I will call this the burglary paper.
 * Practice problem: suppose the neighborhood police station might also affect the number of residential burglaries in the neighborhood. Look up the information to calculate the percent change statistic for residential burglaries using the same two invariance assumptions discussed above. Then, use the reporting rate range of [35%,63%] to calculate the bounded variation range of the percent change statistic.
 
 | Year    | # of Residential Burglaries |
@@ -206,8 +207,28 @@ For each report, you should identify a prevention program or practice from the [
 * The assumption is that the neighborhood reporting rate (nrr) in 2017 is equal to the national estimated reporting rate in 2017; also, the neighborhood reporting rate in 2018 is equal to the national estimated reporting rate in 2018.
 * If this invariance assumption is correct then the estimated number of burglaries in 2017 is 207/0.511 = 405.088.
 * And, the estimated number of burglaries in 2018 is 179/0.479 = 373.695.
-* If this invariance assumption is correct then the percent change in the number of residential burglaries is (373.695-405.088)/405.088 x 100 = -7.7% (a 7.7% estimated decline in the number of residential burglaries from 2017 to 2018.
+* If this invariance assumption is correct, then the percent change in the number of residential burglaries is (373.695-405.088)/405.088 x 100 = -7.7% (a 7.7% estimated decline in the number of residential burglaries from 2017 to 2018).
+* Notice that sign of the estimated change is negative under both assumptions.
+* However, the percent change statistic is only a little over half as large under IA2 (compared to IA1).
 
 #### Bounded Variation Analysis
 
-* 
+* We now consider the long-run range of residential burglary reporting rates based on National Crime Survey and National Crime Victimization Survey data going back to 1972. As noted, this range is [35%,63%].
+* The goal of this analysis is to determine what the largest and smallest values of the percent change statistic could have been if the reporting rates are in the [35%,63%] range.
+* Step 1: estimate the smallest and largest number of residential burglaries that could have occurred consistent with the police data and the [35%,63%] reporting rate range:
+
+| Year    | Lower Bound Estimated # of Robberies  | Upper Bound Estimated # of Robberies | 
+| :---------- |---:|---:|
+| 2017   | 207/0.630 = 328.571 | 207/0.350 = 591.429 | 
+| 2018  | 179/0.630 = 284.127 | 179/0.350 = 511.429 |
+
+* Step 2: calculate the smallest percent change statistic that could have occurred: (min(2018)-max(2017))/(max(2017)) = (284.127-591.429)/591.429 x 100 = -52.0% (decrease).
+* Step 3: calculate the largest percent change statistic that could have occurred: (max(2018)-min(2017))/(min(2017)) = (511.429-328.571)/328.571 x 100 = +55.7% (increase).
+* Here is our summary table:
+
+| Bounds    | % Change Statistic  |
+| :---------- |---:|
+| Lower Bound   | (284.127-591.429)/591.429 x 100 = -52.0%  | 
+| Upper Bound  | (511.429-328.571)/328.571 x 100 = +55.7%  |
+
+* What this means is that if we are only willing to assume that the reporting rate is a number between 35% and 63%, the data are not strong enough to tell us whether the number of burglaries increased or decreased from 2017 to 2018; we would need to narrow down the reporting rate range to develop a stronger conclusion.
