@@ -291,7 +291,7 @@ For each report, you should identify a prevention program or practice from the [
 * The range for state 2 is [365.079,657.143].
 * These 2 ranges overlap quite a bit so we really can't tell which state has the higher burglary rate -- unless we are willing to make stronger assumptions about the rate at which burglaries are reported to the police.
 
-##### A Note About Calculating Bounds When the Divisor is a Proportion
+##### A Note About Calculating Quantities When the Divisor is a Proportion
 
 * Notice that to get the lower bound on the residential burglary rate, we have to divide the number of burglaries the police know about by the *upper bound of the burglary reporting rate* -- in this case, 63%.
 * Symmetrically, to get the upper bound on the residential burglary rate, we have to divide the number of burglaries the police know about by the *lower bound of the burglary reporting rate* -- in this case, 35%.
