@@ -300,3 +300,13 @@ For each report, you should identify a prevention program or practice from the [
 * What we are doing here is multiplying the number of burglaries the police know about by the inverse of the reporting rate. Using State 1 as an example, if there are 2200 burglaries and the reporting rate is 50%, we are multiplying 2200 x 1/0.5 which is equal to multiplying 2200 x 2 which is 4400. So, if the police know about the 2200 reported burglaries and the reporting rate is 50%, then that means there were actually 4400 burglaries.
 ---
 
+#### Washington DC Gun Law Study
+
+* Our first major empirical study of the semester is based on research conducted here at the University of Maryland in the early 1990's.
+* The focus of this study is the Washington DC Gun Law that took effect in 1976 (the Firearms Control Regulation Act of 1975).
+* Note that this is the same law that was declared unconstitutional by the Supreme Court in its *[Heller v. District of Columbia](https://tile.loc.gov/storage-services/service/ll/usrep/usrep554/usrep554570/usrep554570.pdf)* (2009) decision.
+* The study results were published in the *New England Journal of Medicine*.
+* You should download and read the [article](https://www.nejm.org/doi/full/10.1056/NEJM199112053252305).
+* A key focus of this study is whether a gun law that was implemented in Washington DC reduced gun-related homicides and suicides.
+* Note that we generally do not have the same concerns about the dark figure of crime when we study mortality data as we assume these data are very well counted.
+* 
