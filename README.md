@@ -296,5 +296,7 @@ For each report, you should identify a prevention program or practice from the [
 * Notice that to get the lower bound on the residential burglary rate, we have to divide the number of burglaries the police know about by the *upper bound of the burglary reporting rate* -- in this case, 63%.
 * Symmetrically, to get the upper bound on the residential burglary rate, we have to divide the number of burglaries the police know about by the *lower bound of the burglary reporting rate* -- in this case, 35%.
 * This is just a feature of arithmetic: when you divide a number by a lower proportion you get a larger number and when you divide that same number by a higher proportion you get a smaller number.
-* This is easy to see with the number 1. If you divide 1 by 0.2 you get 5; if you divide 1 by 0.8, you get 1.25 (a smaller number)!
+* This is easy to see with the number 100. If you divide 100 by 0.2 you get 500; if you divide 100 by 0.8, you get 125 (a smaller number)!
+* What we are doing here is multiplying the number of burglaries the police know about by the inverse of the reporting rate. Using State 1 as an example, if there are 2200 burglaries and the reporting rate is 50%, we are multiplying 2200 x 1/0.5 which is equal to multiplying 2200 x 2 which is 4400. So, if the police know about the 2200 reported burglaries and the reporting rate is 50%, then that means there were actually 4400 burglaries.
 ---
+
