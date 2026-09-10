@@ -273,22 +273,28 @@ For each report, you should identify a prevention program or practice from the [
 
 | Parameter    | Calculated Quantity |
 | :---------- |---:|
-| Lower bound on # of residential burglaries in state 1  | 2200/0.63 = 3492.063  |
-| Lower bound on residential burglary rate in state 1 | (3492.063/1M) x 100,000 = 349.206 per 100,000 population |
-| Upper bound on # of residential burglaries in state 1  | 2200/0.35 = 6285.714  |
-| Upper bound on residential burglary rate in state 1 | (6285.714/1M) x 100,000 = 628.571 per 100,000 population |
+| Lower bound on # of residential burglaries in state 1  | 2,200/0.63 = 3,492.063  |
+| Lower bound on residential burglary rate in state 1 | (3,492.063/1M) x 100,000 = 349.206 per 100,000 population |
+| Upper bound on # of residential burglaries in state 1  | 2,200/0.35 = 6,285.714  |
+| Upper bound on residential burglary rate in state 1 | (6,285.714/1M) x 100,000 = 628.571 per 100,000 population |
 
 * Then, we look at State 2:
   
 | Parameter    | Calculated Quantity |
 | :---------- |---:|
-| Lower bound on # of residential burglaries in state 2  | 6900/0.63 = 10952.380  |
-| Lower bound on residential burglary rate in state 2 | (10952.380/3M) x 100,000 = 365.079 per 100,000 population |
-| Upper bound on # of residential burglaries in state 2  | 6900/0.35 = 19714.290  |
-| Upper bound on residential burglary rate in state 2 | (19714.290/3M) x 100,000 = 657.143 per 100,000 population |
+| Lower bound on # of residential burglaries in state 2  | 6,900/0.63 = 10,952.380  |
+| Lower bound on residential burglary rate in state 2 | (10,952.380/3M) x 100,000 = 365.079 per 100,000 population |
+| Upper bound on # of residential burglaries in state 2  | 6,900/0.35 = 19,714.290  |
+| Upper bound on residential burglary rate in state 2 | (19,714.290/3M) x 100,000 = 657.143 per 100,000 population |
 
 * So, the range of uncertainty in the burglary rate for state 1 is [349.206,628.571].
 * The range for state 2 is [365.079,657.143].
 * These 2 ranges overlap quite a bit so we really can't tell which state has the higher burglary rate -- unless we are willing to make stronger assumptions about the rate at which burglaries are reported to the police.
 
+##### A Note About Calculating Bounds When the Divisor is a Proportion
+
+* Notice that to get the lower bound on the residential burglary rate, we have to divide the number of burglaries the police know about by the *upper bound of the burglary reporting rate* -- in this case, 63%.
+* Symmetrically, to get the upper bound on the residential burglary rate, we have to divide the number of burglaries the police know about by the *lower bound of the burglary reporting rate* -- in this case, 35%.
+* This is just a feature of arithmetic: when you divide a number by a lower proportion you get a larger number and when you divide that same number by a higher proportion you get a smaller number.
+* This is easy to see with the number 1. If you divide 1 by 0.2 you get 5; if you divide 1 by 0.8, you get 1.25 (a smaller number)!
 ---
