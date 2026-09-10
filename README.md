@@ -253,3 +253,42 @@ For each report, you should identify a prevention program or practice from the [
 * This conclusion is based on the invariance assumption that both states have the same report-to-police rate.
 * We could develop a similar bounded variation analysis for this problem.
 * If we assume that the reporting rate for residential burglaries is in the [35%,63%] range, can we say definitively whether state 2 has a higher residential burglary rate than state 1? Why or why not?
+
+### Lesson 4 - Thursday 9/10/26
+
+* At the end of last class, we were discussing the problem of comparing crime rates between 2 states.
+* Here is a summary table of the data we were given by the police in each state:
+
+| State    | # of Residential Burglaries | Population | Residential Burglary Rate |
+| :---------- |---:|---:|---:|
+| State 1  | 2200  | 1M | 220 per 100k population |
+| State 2  | 6900  | 3M | 230 per 100k population |
+
+* Based exclusively on the police statistics, it looks like State 2 has a higher burglary rate.
+* However, we are not sure whether the fraction of burglaries reported to the police is the same in each state.
+* This is the same as saying that the dark figure of crime might vary between the states.
+* Over time (and, in some cases, across locations) we've seen the burglary reporting rate estimates vary between 35% and 63%.
+* If we assume that the actual residential burglary reporting rate lies somewhere in this range, we can conduct a bounded variation analysis.
+* First, we consider State 1:
+
+| Parameter    | Calculated Quantity |
+| :---------- |---:|
+| Lower bound on # of residential burglaries in state 1  | 2200/0.63 = 3492.063  |
+| Lower bound on residential burglary rate in state 1 | (3492.063/1M) x 100,000 = 349.206 per 100,000 population |
+| Upper bound on # of residential burglaries in state 1  | 2200/0.35 = 6285.714  |
+| Upper bound on residential burglary rate in state 1 | (6285.714/1M) x 100,000 = 628.571 per 100,000 population |
+
+* Then, we look at State 2:
+  
+| Parameter    | Calculated Quantity |
+| :---------- |---:|
+| Lower bound on # of residential burglaries in state 2  | 6900/0.63 = 10952.380  |
+| Lower bound on residential burglary rate in state 2 | (10952.380/3M) x 100,000 = 365.079 per 100,000 population |
+| Upper bound on # of residential burglaries in state 2  | 6900/0.35 = 19714.290  |
+| Upper bound on residential burglary rate in state 2 | (19714.290/3M) x 100,000 = 657.143 per 100,000 population |
+
+* So, the range of uncertainty in the burglary rate for state 1 is [349.206,628.571].
+* The range for state 2 is [365.079,657.143].
+* These 2 ranges overlap quite a bit so we really can't tell which state has the higher burglary rate -- unless we are willing to make stronger assumptions about the rate at which burglaries are reported to the police.
+
+---
