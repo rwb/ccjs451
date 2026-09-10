@@ -256,6 +256,8 @@ For each report, you should identify a prevention program or practice from the [
 
 ### Lesson 4 - Thursday 9/10/26
 
+* Reminder #1: I will be going over the prevention reports in detail next week after the schedule adjustment period concludes.
+* Reminder #2: First exam is scheduled for Tuesday 10/6/26; first prevention report is due on Thursday 10/22/26.
 * At the end of last class, we were discussing the problem of comparing crime rates between 2 states.
 * Here is a summary table of the data we were given by the police in each state:
 
