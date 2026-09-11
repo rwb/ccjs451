@@ -310,6 +310,11 @@ For each report, you should identify a prevention program or practice from the [
 * The study results were published in the *New England Journal of Medicine*.
 * You should download and read the [article](https://www.nejm.org/doi/full/10.1056/NEJM199112053252305).
 * A key focus of this study is whether a gun law that was implemented in Washington DC reduced gun-related homicides and suicides.
+
+### Lesson 5 - Tuesday 9/15/26
+
+* *Note*: I will be going over the prevention reports in more detail in Thursday's lesson (9/17/26).
+* Today, we are continuing our review of the Washington DC Gun Law Study that we began discussing last Thursday.
 * Note that we generally do not have the same concerns about the dark figure of crime when we study mortality data as we assume these data are well counted.
 * There are 2 major sources of homicide data: police data from the FBI and mortality data from the Centers for Disease Control (CDC) National Center for Health Statistics (NCHS).
 * You can familiarize yourself with the similarities and differences between the two systems by [reading this article](https://bjs.ojp.gov/content/pub/pdf/ntmh.pdf). *Note*: you are not required to read the article but it may help you better understand some of the material I mention in class.
