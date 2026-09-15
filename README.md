@@ -314,7 +314,7 @@ For each report, you should identify a prevention program or practice from the [
 ### Lesson 5 - Tuesday 9/15/26
 
 * *Note*: I will be going over the prevention reports in more detail in Thursday's lesson (9/17/26).
-* Here are some [practice questions](
+* Here are some [practice questions](https://github.com/rwb/ccjs451/blob/main/practice-questions.pdf) based on our first few classes. We will have more as the first exam approaches.
 * Today, we are continuing our review of the [Washington DC Gun Law Study](https://www.nejm.org/doi/full/10.1056/NEJM199112053252305) that we began discussing last Thursday.
 * Note that we generally do not have the same concerns about the dark figure of crime when we study mortality data as we assume these data are well counted.
 * There are 2 major sources of homicide data: police data from the FBI and mortality data from the Centers for Disease Control (CDC) National Center for Health Statistics (NCHS).
