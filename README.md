@@ -334,5 +334,6 @@ For each report, you should identify a prevention program or practice from the [
 * Summary table from Loftin et al. (1991):
 
 <p align="center">
-<img src="table1.png" width="600px">
+<img src="table1.png" width="600px"
+  alt="a table summarizing the results of the Washington DC Gun Law Study">
 </p>
