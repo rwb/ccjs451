@@ -334,7 +334,7 @@ For each report, you should identify a prevention program or practice from the [
 * Figure illustrating gun homicide time series for Washington DC:
 
 <p align="center">
-<img src="f1.png" width="700px"
+<img src="f1.png" width="800px"
   alt="a figure illustrating the gun homicide time series for Washington DC">
 </p>
 
