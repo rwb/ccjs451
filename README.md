@@ -325,4 +325,14 @@ For each report, you should identify a prevention program or practice from the [
 
 * Today we will be going over the prevention reports and the practice questions I distributed in our last class.
 * We also will be continuing our discussion of the [Washington DC Gun Law Study](https://www.nejm.org/doi/full/10.1056/NEJM199112053252305).
-* 
+* Time period of the study: 1968 through 1987
+* Monthly counts of homicides and suicides
+* Treatment area: Washington DC
+* Control areas: northern Virginia and Montgomery/Prince George's Counties in Maryland
+* Treatment weapon usage: gun homicides and gun suicides
+* Control weapon usage: non-gun homicides and non-gun suicides
+* Summary table from Loftin et al. (1991):
+
+<p align="center">
+<img src="table1.png" size=500px>
+</p>
