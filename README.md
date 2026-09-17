@@ -334,5 +334,5 @@ For each report, you should identify a prevention program or practice from the [
 * Summary table from Loftin et al. (1991):
 
 <p align="center">
-<img src="table1.png" width="350px">
+<img src="table1.png" width="500px">
 </p>
