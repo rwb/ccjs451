@@ -320,3 +320,9 @@ For each report, you should identify a prevention program or practice from the [
 * There are 2 major sources of homicide data: police data from the FBI and mortality data from the Centers for Disease Control (CDC) National Center for Health Statistics (NCHS).
 * You can familiarize yourself with the similarities and differences between the two systems by [reading this article](https://bjs.ojp.gov/content/pub/pdf/ntmh.pdf). *Note*: you are not required to read the article but it may help you better understand some of the material I mention in class.
 * Here is a [chart](https://github.com/rwb/homicide) showing the two measures as a national time series.
+
+### Lesson 6 - Tuesday 9/15/26
+
+* Today we will be going over the prevention reports and the practice questions I distributed in our last class.
+* We also will be continuing our discussion of the [Washington DC Gun Law Study](https://www.nejm.org/doi/full/10.1056/NEJM199112053252305).
+* 
