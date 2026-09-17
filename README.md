@@ -331,6 +331,13 @@ For each report, you should identify a prevention program or practice from the [
 * Control areas: northern Virginia and Montgomery/Prince George's Counties in Maryland
 * Treatment weapon usage: gun homicides and gun suicides
 * Control weapon usage: non-gun homicides and non-gun suicides
+* Figure illustrating gun homicide time series for Washington DC:
+
+<p align="center">
+<img src="f1.png" width="500px"
+  alt="a figure illustrating the gun homicide time series for Washington DC">
+</p>
+
 * Summary table from Loftin et al. (1991):
 
 <p align="center">
