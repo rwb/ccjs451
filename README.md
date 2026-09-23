@@ -338,9 +338,21 @@ For each report, you should identify a prevention program or practice from the [
   alt="a figure illustrating the gun homicide time series for Washington DC">
 </p>
 
-* Summary table from Loftin et al. (1991):
+### Lesson 7 - Tuesday 9/22/26
+
+* We are continuing our discussion of the [Washington DC Gun Law Study](https://www.nejm.org/doi/full/10.1056/NEJM199112053252305).
+* Summary table from the paper:
 
 <p align="center">
 <img src="table1.png" width="600px"
   alt="a table summarizing the results of the Washington DC Gun Law Study">
 </p>
+
+* Benefits of a randomized experiment -- when cases are randomly assigned to treatment and control groups, we can be sure that the groups will be similar to each other (on average) on pretreatment factors/characteristics.
+* Sometimes we can conduct randomized experiments in criminology but often we can't.
+* The Washington DC Gun Law study is a good example of a study where random assignment of cases to treatment and control groups is not possible.
+* It is still possible to learn from these studies but there is an element of *persuasion* that is involved; the act of persuasion is that the researcher needs to convince a critical audience that the groups being compared are reasonably comparable to each other.
+* That could be done by empirical demonstration -- that the groups are comparable.
+* Or it could be done by studying the experiences of several different control groups.
+* Regardless, people won't be convinced by the study unless they are convinced there is a reasonable control strategy in place.
+* Key facts emerging from the Washington DC Gun Study: (1) gun homicides and gun suicides dropped between 20% and 30% after the 1977 gun law took effect; (2) 
