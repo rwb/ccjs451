@@ -355,4 +355,4 @@ For each report, you should identify a prevention program or practice from the [
 * That could be done by empirical demonstration -- that the groups are comparable.
 * Or it could be done by studying the experiences of several different control groups.
 * Regardless, people won't be convinced by the study unless they are convinced there is a reasonable control strategy in place.
-* Key facts emerging from the Washington DC Gun Study: (1) gun homicides and gun suicides dropped between 20% and 30% after the 1977 gun law took effect; (2) 
+* Key facts emerging from the Washington DC Gun Study: (1) DC gun homicides and gun suicides dropped between 20% and 30% after the 1977 gun law took effect; (2) non-gun related homicides and suicides in DC also dropped but not by nearly as much; (3) 
