@@ -357,3 +357,7 @@ For each report, you should identify a prevention program or practice from the [
 * Regardless, people won't be convinced by the study unless they are convinced there is a reasonable control strategy in place.
 * Key facts emerging from the Washington DC Gun Study: (1) DC gun homicides and gun suicides dropped between 20% and 30% after the 1977 gun law took effect; (2) non-gun related homicides and suicides in DC also dropped but not by nearly as much; (3) gun-related homicides decreased in suburban Maryland and Northern Virginia but not by as much as they did in DC; and (4) gun-related suicides actually increased in suburban Maryland and Northern Virginia.
 * What we are seeing here is that the patterns in the control groups look quite different from the patterns in the treatment group; a sign of no effect is that the patterns in the control group look similar to the patterns in the treatment group -- which is not what we have in this study. 
+
+### Lesson 8 - Thursday 9/24/26
+
+* Our next reading is the [Kansas City Gun Experiment](https://www.ojp.gov/pdffiles/kang.pdf).
