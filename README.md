@@ -361,4 +361,9 @@ For each report, you should identify a prevention program or practice from the [
 
 ### Lesson 8 - Thursday 9/24/26
 
-* Our next reading is the [Kansas City Gun Experiment](https://www.ojp.gov/pdffiles/kang.pdf).
+* Reminder: first exam is scheduled for Tuesday 10/6/26; make sure you buy a small calculator; you will not be able to use your phones or computers.
+* We will set aside some time for review 1 week from today, Thursday 10/1/26 (which will include some additional practice questions).
+* Our current reading is the [Kansas City Gun Experiment](https://www.ojp.gov/pdffiles/kang.pdf).
+* Controversy: (1) less guns, less crime; (2) more guns, less crime; (3) reduce gun carrying in high risk places at high risk times, less crime.
+* An important feature of (3) is that there are many things police can do in this realm without changing existing laws.
+* Partnership between KC Police Department and the University of Maryland.
