@@ -372,3 +372,4 @@ For each report, you should identify a prevention program or practice from the [
 
 * Reminder: first exam is scheduled for Tuesday 10/6/26; make sure you buy a small calculator; you will not be able to use your phones or computers.
 * Here are some more [practice questions](https://github.com/rwb/ccjs451/blob/main/practice-questions-2.pdf) based on our more recent classes. We will review these questions in class on Thursday 10/1/26 (last class period before our first exam).
+* Today we are continuing our study of the [Kansas City Gun Experiment](https://www.ojp.gov/pdffiles/kang.pdf).
