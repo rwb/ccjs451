@@ -367,3 +367,8 @@ For each report, you should identify a prevention program or practice from the [
 * Controversy: (1) less guns, less crime; (2) more guns, less crime; (3) reduce gun carrying in high risk places at high risk times, less crime.
 * An important feature of (3) is that there are many things police can do in this realm without changing existing laws.
 * Partnership between KC Police Department and the University of Maryland.
+
+### Lesson 9 - Tuesday 9/29/26
+
+* Reminder: first exam is scheduled for Tuesday 10/6/26; make sure you buy a small calculator; you will not be able to use your phones or computers.
+* Here are some more [practice questions](https://github.com/rwb/ccjs451/blob/main/practice-questions-2.pdf) based on our more recent classes. We will review these questions in class on Thursday 10/1/26 (last class period before our first exam).
