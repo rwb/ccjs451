@@ -394,6 +394,11 @@ For each report, you should identify a prevention program or practice from the [
 * One way to think about this study is to shift from thinking about the question, "does a cause b?",; instead, we might want to ask a different question, "if a is a cause of b, then what pattern of results would we expect to see?".
 
 <p align="center">
+<img src="kcmap.png" width="600px"
+  alt="a Kansas City patrol district map">
+</p>
+
+<p align="center">
 <img src="kcgunits2.png" width="600px"
   alt="a figure showing the interrupted time series analysis from the Kansas City Gun Experiment">
 </p>
