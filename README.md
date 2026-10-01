@@ -374,7 +374,7 @@ For each report, you should identify a prevention program or practice from the [
 ### Lesson 9 - Tuesday 9/29/26
 
 * Reminder: first exam is scheduled for Tuesday 10/6/26; make sure you buy a small calculator; you will not be able to use your phones or computers.
-* Here are some more [practice questions](https://github.com/rwb/ccjs451/blob/main/practice-questions-2.pdf) based on our more recent classes. We will review these questions in class on Thursday 10/1/26 (last class period before our first exam).
+* Here are some more [practice questions](https://github.com/rwb/ccjs451/blob/main/practice-questions-2a.pdf) based on our more recent classes. We will review these questions in class on Thursday 10/1/26 (last class period before our first exam).
 * Today we are continuing our discussion of the [Kansas City Gun Experiment](https://www.ojp.gov/pdffiles/kang.pdf).
 * Some money was used to pay for other expenses such as research staff to make systematic observations when riding along with the officers.
 * What do we mean by the term "patrol beat"?
@@ -429,3 +429,9 @@ For each report, you should identify a prevention program or practice from the [
 <img src="kctable.png" width="600px"
   alt="a table summarizing the results of the Kansas City Gun Experiment">
 </p>
+
+
+### Exam 1-Related Updates Will Be Posted Here
+
+* Practice questions set #1 with solutions is here.
+* Practice questions set #2 with solutions is [here](https://github.com/rwb/ccjs451/blob/main/practice-questions-2a.pdf).
