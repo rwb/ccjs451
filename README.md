@@ -381,3 +381,14 @@ For each report, you should identify a prevention program or practice from the [
 * Overtime patrol activities would be directed at hot spots within the "target beat"; otherwise the target beat would get the "business-as-usual" level of policing coverage.
 * Burden of proof requirement for a so-called *Terry stop* (which could be a pretext for capturing 1 or more guns) is *reasonable suspicion*; this is less than the standard required for an arrest which is *probable cause*.
 * The control or comparison beat would also receive business-as-usual levels of police coverage; no overtime patrols would be conducted in this beat.
+
+### Lesson 10 - Thursday 10/1/26
+
+* Reminder: first exam is scheduled for Tuesday 10/6/26; make sure you buy a small calculator; you will not be able to use your phones or computers.
+* We will review some practice questions I gave you last time after we finish going over the [Kansas City Gun Experiment](https://www.ojp.gov/pdffiles/kang.pdf).
+* Notice that the two beats (target and control) exhibit some similarities but also some differences.
+* Since there is only 1 target beat and 1 control beat, there is no randomized experiment and this study is not a full experimental design.
+* We generally refer to these sorts of studies as *observational studies*. Observational studies can demonstrate correlation and they can also demonstrate temporal order (i.e., if a is a cause of b then changes in a should be followed by changes in b). They generally can't (at least not in one single study) demonstrate that the correlation and temporal order is truly the result of a causal relationship.
+* Observational studies can have manipulation of the independent variables as this one does but not have the property of random assignment of beats to treatment and control groups.
+* Questions for reflection: why can't this study demonstrate cause and effect?; why might it not matter whether deterrence or incapacitation is the reason for a change in gun crime?
+* 
