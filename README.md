@@ -399,6 +399,11 @@ For each report, you should identify a prevention program or practice from the [
 </p>
 
 <p align="center">
+<img src="kccompare.png" width="600px"
+  alt="statistical comparison of target and control beats in Kansas City Gun Experiment">
+</p>
+
+<p align="center">
 <img src="kcgunits2.png" width="600px"
   alt="a figure showing the interrupted time series analysis from the Kansas City Gun Experiment">
 </p>
