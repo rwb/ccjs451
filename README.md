@@ -391,4 +391,9 @@ For each report, you should identify a prevention program or practice from the [
 * We generally refer to these sorts of studies as *observational studies*. Observational studies can demonstrate correlation and they can also demonstrate temporal order (i.e., if a is a cause of b then changes in a should be followed by changes in b). They generally can't (at least not in one single study) demonstrate that the correlation and temporal order is truly the result of a causal relationship.
 * Observational studies can have manipulation of the independent variables as this one does but not have the property of random assignment of beats to treatment and control groups.
 * Questions for reflection: why can't this study demonstrate cause and effect?; why might it not matter whether deterrence or incapacitation is the reason for a change in gun crime?
-* 
+* One way to think about this study is to shift from thinking about the question, "does a cause b?",; instead, we might want to ask a different question, "if a is a cause of b, then what pattern of results would we expect to see?".
+
+<p align="center">
+<img src="kcgunsummary.png" width="600px"
+  alt="a table summarizing the results of the Kansas City Gun Experiment">
+</p>
