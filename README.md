@@ -47,7 +47,7 @@ Each exam will be closed book/closed note and will be comprised of a combination
 
 ### Prevention reports
 
-For each report, you should identify a prevention program or practice from the [Crime Solutions website](https://crimesolutions.ojp.gov/programs-practices) that is not discussed in class. If you have any questions about whether the program you've identified is a prevention program or whether the peer-reviewed study you're planning to use is appropriate, you should consult with me (so you don't lose points). Your written submission will then be graded according to the following equally weighted 10-item rubric: 
+For each report, you should identify a prevention program or  from the [Crime Solutions website](https://crimesolutions.ojp.gov/programs-s) that is not discussed in class. If you have any questions about whether the program you've identified is a prevention program or whether the peer-reviewed study you're planning to use is appropriate, you should consult with me (so you don't lose points). Your written submission will then be graded according to the following equally weighted 10-item rubric: 
 
 * Describe the problem the program is targeting for prevention (including whether the prevention problem is developmental, situational, or community-oriented).
 * Identify a peer-reviewed empirical study evaluating the prevention program (will be important to check with me about this if you're not sure it's appropriate!).
@@ -314,7 +314,7 @@ For each report, you should identify a prevention program or practice from the [
 ### Lesson 5 - Tuesday 9/15/26
 
 * *Note*: I will be going over the prevention reports in more detail in Thursday's lesson (9/17/26).
-* Here are some [practice questions](https://github.com/rwb/ccjs451/blob/main/practice-questions.pdf) based on our first few classes. We will have more as the first exam approaches.
+* Here are some [practice questions](https://github.com/rwb/ccjs451/blob/main/practice-questions-1a.pdf) based on our first few classes. We will have more as the first exam approaches.
 * Today, we are continuing our review of the [Washington DC Gun Law Study](https://www.nejm.org/doi/full/10.1056/NEJM199112053252305) that we began discussing last Thursday.
 * Note that we generally do not have the same concerns about the dark figure of crime when we study mortality data as we assume these data are well counted.
 * There are 2 major sources of homicide data: police data from the FBI and mortality data from the Centers for Disease Control (CDC) National Center for Health Statistics (NCHS).
@@ -433,5 +433,5 @@ For each report, you should identify a prevention program or practice from the [
 
 ### Exam 1-Related Updates Will Be Posted Here
 
-* Practice questions set #1 with solutions is here.
+* Practice questions set #1 with solutions is [here](https://github.com/rwb/ccjs451/blob/main/practice-questions-1a.pdf).
 * Practice questions set #2 with solutions is [here](https://github.com/rwb/ccjs451/blob/main/practice-questions-2a.pdf).
