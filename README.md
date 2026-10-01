@@ -400,7 +400,13 @@ For each report, you should identify a prevention program or practice from the [
 
 <p align="center">
 <img src="kcgunsummary.png" width="600px"
+  alt="a figure summarizing the results of the Kansas City Gun Experiment">
+</p>
+
+<p align="center">
+<img src="kctable.png" width="600px"
   alt="a table summarizing the results of the Kansas City Gun Experiment">
 </p>
+
 
 * This figure summarizes the results of the study. To create the figure, the authors divided up the time periods being studied to the 
