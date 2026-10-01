@@ -366,10 +366,18 @@ For each report, you should identify a prevention program or practice from the [
 * Our current reading is the [Kansas City Gun Experiment](https://www.ojp.gov/pdffiles/kang.pdf).
 * Controversy: (1) less guns, less crime; (2) more guns, less crime; (3) reduce gun carrying in high risk places at high risk times, less crime.
 * An important feature of (3) is that there are many things police can do in this realm without changing existing laws.
-* Partnership between KC Police Department and the University of Maryland.
+* Partnership between KC Police Department and the University of Maryland
+* Funding based on federal "Weed and Seed" grant; monies primarily used to pay for overtime patrol activity by police officers.
+* Theoretical framework is based on deterrence and incapacitation ideas.
+
 
 ### Lesson 9 - Tuesday 9/29/26
 
 * Reminder: first exam is scheduled for Tuesday 10/6/26; make sure you buy a small calculator; you will not be able to use your phones or computers.
 * Here are some more [practice questions](https://github.com/rwb/ccjs451/blob/main/practice-questions-2.pdf) based on our more recent classes. We will review these questions in class on Thursday 10/1/26 (last class period before our first exam).
 * Today we are continuing our discussion of the [Kansas City Gun Experiment](https://www.ojp.gov/pdffiles/kang.pdf).
+* Some money was used to pay for other expenses such as research staff to make systematic observations when riding along with the officers.
+* What do we mean by the term "patrol beat"?
+* Overtime patrol activities would be directed at hot spots within the "target beat"; otherwise the target beat would get the "business-as-usual" level of policing coverage.
+* Burden of proof requirement for a so-called *Terry stop* (which could be a pretext for capturing 1 or more guns) is *reasonable suspicion*; this is less than the standard required for an arrest which is *probable cause*.
+* The control or comparison beat would also receive business-as-usual levels of police coverage; no overtime patrols would be conducted in this beat.
