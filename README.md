@@ -393,30 +393,38 @@ For each report, you should identify a prevention program or practice from the [
 * Questions for reflection: why can't this study demonstrate cause and effect?; why might it not matter whether deterrence or incapacitation is the reason for a change in gun crime?
 * One way to think about this study is to shift from thinking about the question, "does a cause b?",; instead, we might want to ask a different question, "if a is a cause of b, then what pattern of results would we expect to see?".
 
+---
+* This map shows the target and control beats in the Kansas City Gun Experiment. Notice there are other beats on the map besides the two that were directly involved in the study.
+  
 <p align="center">
 <img src="kcmap.png" width="600px"
   alt="a Kansas City patrol district map">
 </p>
 
+* This chart shows that there are some similarities and some differences between the two beats. They are not identical to each other.
+ 
 <p align="center">
 <img src="kccompare.png" width="600px"
   alt="statistical comparison of target and control beats in Kansas City Gun Experiment">
 </p>
 
+* This chart is similar to the one we examined in the Washington DC Gun Study; the study is based on what is usually called an *interrupted time series analysis*.
+ 
 <p align="center">
 <img src="kcgunits2.png" width="600px"
   alt="a figure showing the interrupted time series analysis from the Kansas City Gun Experiment">
 </p>
+
+* This figure summarizes the results of the study, comparing changes in gun confiscations and changes in gun crime between the target beat and the control beat.
 
 <p align="center">
 <img src="kcgunsummary.png" width="600px"
   alt="a figure summarizing the results of the Kansas City Gun Experiment">
 </p>
 
+* This table presents statistical data on the target and control beats plus the changes in other beats that were in the map up above.
+
 <p align="center">
 <img src="kctable.png" width="600px"
   alt="a table summarizing the results of the Kansas City Gun Experiment">
 </p>
-
-
-* This figure summarizes the results of the study. To create the figure, the authors divided up the time periods being studied to the 
