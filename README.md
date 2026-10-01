@@ -392,6 +392,7 @@ For each report, you should identify a prevention program or practice from the [
 * Observational studies can have manipulation of the independent variables as this one does but not have the property of random assignment of beats to treatment and control groups.
 * Questions for reflection: why can't this study demonstrate cause and effect?; why might it not matter whether deterrence or incapacitation is the reason for a change in gun crime?
 * One way to think about this study is to shift from thinking about the question, "does a cause b?",; instead, we might want to ask a different question, "if a is a cause of b, then what pattern of results would we expect to see?".
+* Research data are based on police/administrative data pertaining to gun crimes and gun confiscations as well as research staff observations and citizen surveys about fear of crime (but not surveys about crime victimization).
 
 ---
 * This map shows the target and control beats in the Kansas City Gun Experiment. Notice there are other beats on the map besides the two that were directly involved in the study.
@@ -401,7 +402,7 @@ For each report, you should identify a prevention program or practice from the [
   alt="a Kansas City patrol district map">
 </p>
 
-* This chart shows that there are some similarities and some differences between the two beats. They are not identical to each other.
+* This chart shows that there are some similarities and some differences between the two beats (before the intervention began). They are not identical to each other.
  
 <p align="center">
 <img src="kccompare.png" width="600px"
