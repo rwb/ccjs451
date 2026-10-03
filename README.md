@@ -444,6 +444,6 @@ If you go back up to Lesson 3 you will see this information:
 * You should also be reading over this [journal article](https://journals.sagepub.com/doi/full/10.1177/0887403415617807?casa_token=fg7HWB9Bk2UAAAAA%3AiWFZ4xe8Zr9C0EV9UfHBu7WEuL6mHvaN9CSweIdXRtxH7Bve0AeBwSgeQ7IbgwensIyg8XJnLWfw) that I coauthored; I will call this the burglary paper.
 * A magazine called *Science News* wrote up an [article](https://onlinelibrary.wiley.com/doi/epdf/10.1002/scin.5591811205) summarizing an early draft of my paper which might be easier for you to read and understand. Reading either my article or the *Science News* article will be sufficient for the exam.
 
-So, you can consider looking at the Science News article instead of my article if you're looking for something that is more concise. I hope that helps!
+So, you can consider looking at the Science News article instead of my article if you're looking for something that is more concise. You may need to log into the library's website (lib.umd.edu) to be able to access it but you should not pay for it. I hope that helps!
 
 ---
