@@ -435,3 +435,13 @@ For each report, you should identify a prevention program or  from the [Crime So
 
 * Practice questions set #1 with solutions is [here](https://github.com/rwb/ccjs451/blob/main/practice-questions-1a.pdf).
 * Practice questions set #2 with solutions is [here](https://github.com/rwb/ccjs451/blob/main/practice-questions-2a.pdf).
+
+---
+* Student Question #1: I was reading through the paper you co-wrote and wanted to know if there were any specific parts of the paper you wanted us to focus on and know for the exam. My response: Please consider what I said about this in Lesson 3:
+
+* You should also be reading over this [journal article](https://journals.sagepub.com/doi/full/10.1177/0887403415617807?casa_token=fg7HWB9Bk2UAAAAA%3AiWFZ4xe8Zr9C0EV9UfHBu7WEuL6mHvaN9CSweIdXRtxH7Bve0AeBwSgeQ7IbgwensIyg8XJnLWfw) that I coauthored; I will call this the burglary paper.
+* A magazine called *Science News* wrote up an [article](https://onlinelibrary.wiley.com/doi/epdf/10.1002/scin.5591811205) summarizing an early draft of my paper which might be easier for you to read and understand. Reading either my article or the *Science News* article will be sufficient for the exam.
+
+If you're finding the paper I wrote to be too much to digest, you could consider looking at the Science News article instead. I hope that helps!I
+
+---
