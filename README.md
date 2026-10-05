@@ -446,8 +446,6 @@ If you go back up to Lesson 3 you will see this information:
 
 So, you can consider looking at the Science News article instead of my article if you're looking for something that is more concise. You may need to log into the library's website (lib.umd.edu) to be able to access it but you should not pay for it. I hope that helps!
 
-* Student Question #2: Will the formulas for the calculations be on the exam?
-
-My response: yes.
+* Student Question #2: Will the formulas for the calculations be provided on the exam? My response: yes, I will give you the formulas so you do not need to memorize them.
 
 ---
