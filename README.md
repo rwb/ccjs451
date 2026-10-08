@@ -457,6 +457,6 @@ So, you can consider looking at the Science News article instead of my article i
 * There is no class on Tuesday 10/13/26 (fall break).
 * Today, we turn our attention to the [Kansas City Preventive Patrol Experiment](https://onlinelibrary.wiley.com/doi/full/10.1111/1745-9133.12623).
 * Original study was published in 1974.
-* Research question: does preventive patrol reduce crime? Does it reduce fear of crime?
+* Research question: what is the effect of discretionary, preventive police patrol?
 * The study we will be reading re-examines the evidence that was developed for this study.
 * We will now turn our attention to the article itself.
