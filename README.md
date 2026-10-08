@@ -458,5 +458,23 @@ So, you can consider looking at the Science News article instead of my article i
 * Today, we turn our attention to the [Kansas City Preventive Patrol Experiment](https://onlinelibrary.wiley.com/doi/full/10.1111/1745-9133.12623).
 * Original study was published in 1974.
 * Research question: what is the effect of discretionary, preventive police patrol?
-* The study we will be reading re-examines the evidence that was developed for this study.
 * We will now turn our attention to the article itself.
+---
+
+#### Key points from today's discussion
+
+* although the original study (conducted by Kelling) was published in 1974, this study is a re-analysis/reconsideration of the original work.
+* the Kansas City Police Department estimated that about 30-40% of police shift time was devoted to discretionary preventive patrol.
+* this would be time that the police would normally spend conducting "routine preventive patrol".
+* the article describes this as a "core" policing practice
+* the article also points out that there was no empirical evidence about the effectiveness of this practice at improving community outcomes
+* Chief Kelley's statement (we don't have an understanding of the effects of one of our core practices).
+* what kinds of outcomes might we be concerned about?: crime, victimization, fear of crime, traffic accidents, police response time
+* three reasons why the original study had an impact: (1) importance of the question; (2) study methodology (randomized experiment); and (3) clarity of the findings.
+* three beat groups: (1) proactive (2-3x the normal patrol dosage); (2) control (business-as-usual patrol dosage); and (3) reactive (no preventive patrol coverage; only respond to calls for service).
+* 5 beats assigned to each group.
+* there were 24 beats in the South Division where the study was carried out; 9 beats were not included because of their "socioeconomic composition"; this left 15 beats that were included.
+* Larson's (1975) critical assessment concluded that the construct validity of the reactive condition was suspect because there were indicators of significant police presence in the reactive beats.
+* 5 groups of 3 beats were identified and matched to each other on a range of demographic, economic, and crime-related characteristics; each of these 5 groups of 3 beats each was called a "triplet."
+* The original researchers indicated that they randomly assigned the beats to each of the 3 groups within each triplet.
+* Question for discussion: is random assignment of patrol beats to the different groups an ethical research approach? Why or why not?
