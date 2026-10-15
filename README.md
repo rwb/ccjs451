@@ -478,3 +478,35 @@ So, you can consider looking at the Science News article instead of my article i
 * 5 groups of 3 beats were identified and matched to each other on a range of demographic, economic, and crime-related characteristics; each of these 5 groups of 3 beats each was called a "triplet."
 * The original researchers indicated that they randomly assigned the beats to each of the 3 groups within each triplet.
 * Question for discussion: is random assignment of patrol beats to the different groups an ethical research approach? Why or why not?
+
+### Lesson 12 - Thursday 10/15/26
+
+* Reminder: Your first prevention reports are due on Thursday 10/22/26; 1 week from today.
+* You will need to bring them on paper with you to class as they are due at the end of the class period.
+* Today, we are continuing our discussion of the [Kansas City Preventive Patrol Experiment](https://onlinelibrary.wiley.com/doi/full/10.1111/1745-9133.12623) (KCPPE).
+* At the end of last class, we were discussing the ethics of the evaluation; I introduced the concept of *clinical equipoise*.
+* The major point here is that when we don't know what the effect of a particular intervention is, the only way to find out is to study it.
+* When we conduct a study it can either be an observational (non-experimental) study or it can be an experiment.
+* The use of the term "experiment" implies random assignment of cases to treatment and control groups.
+* The benefit of random assignment is that it induces pretreatment equivalence among the groups being compared.
+* Just because we have clinical equipoise does not mean we can do random assignment; however, random assignment can only occur ethically if we have clinical equipoise.
+* The unit of analysis in the KCPPE is the 15 patrol beats that were included in the experiment.
+* Let's look at Table 1 in the article (page 548).
+* These results are based on official police data.
+* Question for discussion: What kinds of concerns might arise from these results?
+* What major analysis decision was made for the 2023 re-analysis?
+* The statistical measure of association used in this study was the *incident rate ratio* (see Table 2 on page 550).
+* Example: estimated burglary rate in proactive beat divided by the estimated burglary rate in the control beat
+* If the two rates comprising the IRR are the same number then the ratio is 1.0.
+* There is also the question of the confidence interval: a measure of uncertainty of the estimate due to sampling error.
+* The authors of this study use 95% confidence intervals.
+* Table 2 is the most important table in the paper. Here is what it shows:
+
+  | Crime Type    | Estimated IRR | 95% CI |
+| :---------- |---:|---:|
+| Violent crime | 0.83  | [0.68,1.00] |
+| Burglary | 0.87  | [0.75,0.99] |
+| Larceny | 0.91  | [0.81,1.03] |
+| Total Crime | [0.85,1.01] |
+
+* 3 important unanswered questions: (1) what was the actual dosage of police patrol? (discussed on page 551); (2) were the statistical tests adequately powered? (discussed on page 552); and (3) what would happen if we weaken the assumption that the report-to-police rates were the same across the beats being compared and that they were constant over time? (not discussed at all).
