@@ -47,7 +47,7 @@ Each exam will be closed book/closed note and will be comprised of a combination
 
 ### Prevention reports
 
-For each report, you should identify a prevention program or  from the [Crime Solutions website](https://crimesolutions.ojp.gov/programs-s) that is not discussed in class. If you have any questions about whether the program you've identified is a prevention program or whether the peer-reviewed study you're planning to use is appropriate, you should consult with me (so you don't lose points). Your written submission will then be graded according to the following equally weighted 10-item rubric: 
+For each report, you should identify a prevention program or  from the [Crime Solutions website](https://crimesolutions.ojp.gov) that is not discussed in class. If you have any questions about whether the program you've identified is a prevention program or whether the peer-reviewed study you're planning to use is appropriate, you should consult with me (so you don't lose points). Your written submission will then be graded according to the following equally weighted 10-item rubric: 
 
 * Describe the problem the program is targeting for prevention (including whether the prevention problem is developmental, situational, or community-oriented).
 * Identify a peer-reviewed empirical study evaluating the prevention program (will be important to check with me about this if you're not sure it's appropriate!).
