@@ -502,9 +502,9 @@ So, you can consider looking at the Science News article instead of my article i
 * The authors of this study use 95% confidence intervals.
 * Table 2 is the most important table in the paper. Here is what it shows:
 
-  | Crime Type    | Estimated IRR | 95% CI |
-| :----------------|-------------:|----------:|
-| Violent crime    |         0.83 | 0.68,1.00 |
+| Crime Type    | Estimated IRR | 95% CI    |
+|:----------------|-------------:|----------:|
+| Violent crime    |         0.83 | 0.68,1.00 |  
 | Burglary         |         0.87 | 0.75,0.99 |
 | Larceny          | 0.91         | 0.81,1.03 |
 | Total Crime      | 0.93         | 0.85,1.01 |
