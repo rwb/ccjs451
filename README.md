@@ -503,10 +503,10 @@ So, you can consider looking at the Science News article instead of my article i
 * Table 2 is the most important table in the paper. Here is what it shows:
 
   | Crime Type    | Estimated IRR | 95% CI |
-| :---------- |---:|---:|
-| Violent crime | 0.83  | [0.68,1.00] |
-| Burglary | 0.87  | [0.75,0.99] |
-| Larceny | 0.91  | [0.81,1.03] |
-| Total Crime | [0.85,1.01] |
+| :----------------|-------------:|----------:|
+| Violent crime    |         0.83 | 0.68,1.00 |
+| Burglary         |         0.87 | 0.75,0.99 |
+| Larceny          | 0.91         | 0.81,1.03 |
+| Total Crime      | 0.93         | 0.85,1.01 |
 
 * 3 important unanswered questions: (1) what was the actual dosage of police patrol? (discussed on page 551); (2) were the statistical tests adequately powered? (discussed on page 552); and (3) what would happen if we weaken the assumption that the report-to-police rates were the same across the beats being compared and that they were constant over time? (not discussed at all).
