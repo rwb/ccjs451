@@ -533,4 +533,8 @@ alt="figure demonstrating the concept of sampling variation">
 alt="Christensen's age-arrest curve">
 </p>
 
-  
+* Why does this matter? Most arrests in America are not people being arrested for the first time; instead, they are *recidivist* arrests.
+* So recidivism (new offending among people who have offended in the past) is an important crime prevention focus.
+* Certain types of crime have particularly attracted the attention of researchers.
+* A good example is the problem of domestic violence (often not reported, chronic and sometimes escalatory)
+*   
