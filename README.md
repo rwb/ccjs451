@@ -518,7 +518,7 @@ So, you can consider looking at the Science News article instead of my article i
 * Sample size and statistical power (see figure below).
 
 <p align="center">
-<img src="/gfiles/fig1.png" width="700px"
+<img src="fig1.png" width="700px"
 alt="figure demonstrating the concept of sampling variation">
 </p>
 
