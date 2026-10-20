@@ -545,9 +545,11 @@ alt="Christensen's age-arrest curve">
 * When cases do not actually receive the randomized treatment we refer to the problem as *treatment noncompliance*.
 * In all but 1 case, the noncompliance in the Minneapolis study took the form of someone assigned to 1 of the 2 no-arrest groups actually being arrested.
 * The authors refer to this phenomenon as *upgrading* (based on the severity of the system response).
+* Once each case was randomly assigned to one of the 3 groups, they were all followed for 6 months to determine whether there was new domestic violence.
+* New domestic violence was measured both by police records and victim interviews.
+* The police record results are presented below.
  
 <p align="center">
 <img src="fig3.png" width="600px"
 alt="summary of results from the Minneapolis Domestic Violence Experiment">
 </p>
-
