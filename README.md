@@ -556,7 +556,7 @@ alt="summary of results from the Minneapolis Domestic Violence Experiment">
 
 * The Minneapolis study is an example of an individual-level field experiment.
 * This brings up the distinction of *field experiments* vs. *lab experiments* (internal and external validity)
-* The Minneapolis study was *replicated* in several other cities.
+* The Minneapolis study was *replicated* in several other cities (note I am not assigning any reading from the other studies but am happy to discuss any of them with you if you want to know more).
 * However, there was variation in the results.
 * As an example, here are the results from the Charlotte replication of the Minneapolis study:
 
