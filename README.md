@@ -515,7 +515,8 @@ So, you can consider looking at the Science News article instead of my article i
 
 * Reminder: Your first prevention reports are due on Thursday 10/22/26.
 * You will need to bring them on paper with you to class as they are due at the end of the class period.
-* Sample size and statistical power (see figure below).
+* Sample size and statistical power (see figure below; the example is recidivism which is new offending among people who have offended in the past)
+* A recidivism rate is the number of people who are observed to reoffend divided by the total number of people being followed (usually the fraction is multiplied by 100 to get a percentage).
 
 <p align="center">
 <img src="fig1.png" width="700px"
@@ -534,7 +535,7 @@ alt="Christensen's age-arrest curve">
 </p>
 
 * Why does this matter? Most arrests in America are not people being arrested for the first time; instead, they are *recidivist* arrests.
-* So recidivism (new offending among people who have offended in the past) is an important crime prevention focus.
+* So recidivism is an important crime prevention focus.
 * Certain types of crime have particularly attracted the attention of researchers.
 * A good example is the problem of domestic violence (often not reported, chronic and sometimes escalatory)
 *   
