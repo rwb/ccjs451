@@ -560,6 +560,6 @@ alt="summary of results from the Minneapolis Domestic Violence Experiment">
 * Here are the results from the Charlotte replication of the Minneapolis study:
 
 <p align="center">
-<img src="fig3.png" width="600px"
+<img src="fig4.png" width="600px"
 alt="summary of results from the Charlotte Domestic Violence Experiment">
 </p>
