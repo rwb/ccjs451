@@ -526,7 +526,8 @@ alt="figure demonstrating the concept of sampling variation">
 * Bottom line: more cases in a sample = greater precision of our estimates.
 * We discuss some reasons why this matters in prevention studies (planning studies, not wasting money, guidance for policy)
 * The studies we've been discussing so far fall into the *community prevention* category of prevention studies (macro data).
-* We now turn to an example of individual or developmental prevention (micro-data).
+* We now turn to an example of individual or *developmental prevention* (micro-data).
+* Another type of prevention which we will discuss later in the semester is *situational prevention*.
 * Let's begin with an observation about arrests in America (*note*: this figure comes from Ronald Christensen (1967) Projected percentage of US population with criminal arrest and conviction records. In *President's Commission on Law Enforcement and Administration of Justice: Task Force Report on Science and Technology*. Washington DC: U.S. Government Printing Office).
 
 <p align="center">
@@ -538,4 +539,15 @@ alt="Christensen's age-arrest curve">
 * So recidivism is an important crime prevention focus.
 * Certain types of crime have particularly attracted the attention of researchers.
 * A good example is the problem of domestic violence (often not reported, chronic and sometimes escalatory)
-*   
+* Next reading assignment: the [Minneapolis Domestic Violence Experiment]([journal article](https://www.jstor.org/stable/2095575).
+* Domestic violence cases in Minneapolis were randomly assigned to 1 of 3 different groups: arrest, advice, and separate.
+* Not every case received the treatment they were randomly assigned to receive (but most did).
+* When cases do not actually receive the randomized treatment we refer to the problem as *treatment noncompliance*.
+* In all but 1 case, the noncompliance in the Minneapolis study took the form of someone assigned to 1 of the 2 no-arrest groups actually being arrested.
+* The authors refer to this phenomenon as *upgrading* (based on the severity of the system response).
+ 
+<p align="center">
+<img src="fig3.png" width="800px"
+alt="summary of results from the Minneapolis Domestic Violence Experiment">
+</p>
+
