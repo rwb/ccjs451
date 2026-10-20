@@ -553,3 +553,13 @@ alt="Christensen's age-arrest curve">
 <img src="fig3.png" width="600px"
 alt="summary of results from the Minneapolis Domestic Violence Experiment">
 </p>
+
+* The Minneapolis study is an example of an individual-level field experiment.
+* This brings up the distinction of *field experiments* vs. *lab experiments* (internal and external validity)
+* The Minneapolis study was *replicated*.
+* Here are the results from the Charlotte replication of the Minneapolis study:
+
+<p align="center">
+<img src="fig3.png" width="600px"
+alt="summary of results from the Charlotte Domestic Violence Experiment">
+</p>
