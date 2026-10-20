@@ -526,7 +526,7 @@ alt="figure demonstrating the concept of sampling variation">
 * We discuss some reasons why this matters in prevention studies (planning studies, not wasting money, guidance for policy)
 * The studies we've been discussing so far fall into the *community prevention* category of prevention studies (macro data).
 * We now turn to an example of individual or developmental prevention (micro-data).
-* Let's begin with an observation about arrests in America.
+* Let's begin with an observation about arrests in America (*note*: this figure comes from Ronald Christensen (1967) Projected percentage of US population with criminal arrest and conviction records. In *President's Commission on Law Enforcement and Administration of Justice: Task Force Report on Science and Technology*. Washington DC: U.S. Government Printing Office).
 
 <p align="center">
 <img src="fig2.png" width="700px"
