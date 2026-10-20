@@ -519,7 +519,7 @@ So, you can consider looking at the Science News article instead of my article i
 * A recidivism rate is the number of people who are observed to reoffend divided by the total number of people being followed (usually the fraction is multiplied by 100 to get a percentage).
 
 <p align="center">
-<img src="fig1.png" width="700px"
+<img src="fig1.png" width="800px"
 alt="figure demonstrating the concept of sampling variation">
 </p>
 
