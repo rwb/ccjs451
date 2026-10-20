@@ -539,7 +539,7 @@ alt="Christensen's age-arrest curve">
 * So recidivism is an important crime prevention focus.
 * Certain types of crime have particularly attracted the attention of researchers.
 * A good example is the problem of domestic violence (often not reported, chronic and sometimes escalatory)
-* Next reading assignment: the [Minneapolis Domestic Violence Experiment]([journal article](https://www.jstor.org/stable/2095575).
+* Next reading assignment: the [Minneapolis Domestic Violence Experiment](https://www.jstor.org/stable/2095575).
 * Domestic violence cases in Minneapolis were randomly assigned to 1 of 3 different groups: arrest, mediate, and separate.
 * Not every case received the treatment they were randomly assigned to receive (but most did).
 * When cases do not actually receive the randomized treatment we refer to the problem as *treatment noncompliance*.
