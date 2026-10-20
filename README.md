@@ -547,7 +547,7 @@ alt="Christensen's age-arrest curve">
 * The authors refer to this phenomenon as *upgrading* (based on the severity of the system response).
  
 <p align="center">
-<img src="fig3.png" width="800px"
+<img src="fig3.png" width="600px"
 alt="summary of results from the Minneapolis Domestic Violence Experiment">
 </p>
 
