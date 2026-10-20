@@ -510,3 +510,20 @@ So, you can consider looking at the Science News article instead of my article i
 | Total Crime      | 0.93         | 0.85,1.01 |
 
 * 3 important unanswered questions: (1) what was the actual dosage of police patrol? (discussed on page 551); (2) were the statistical tests adequately powered? (discussed on page 552); and (3) what would happen if we weaken the assumption that the report-to-police rates were the same across the beats being compared and that they were constant over time? (not discussed at all).
+
+### Lesson 13 - Tuesday 10/20/26
+
+* Reminder: Your first prevention reports are due on Thursday 10/22/26.
+* You will need to bring them on paper with you to class as they are due at the end of the class period.
+* Sample size and statistical power (see figure below).
+
+<p align="center">
+<img src="/gfiles/fig1.png" width="700px"
+alt="figure demonstrating the concept of sampling variation">
+</p>
+
+* Bottom line: more cases in a sample = greater precision of our estimates.
+* We discuss some reasons why this matters in prevention studies (planning studies, not wasting money, guidance for policy)
+* 
+
+  
