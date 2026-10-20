@@ -529,7 +529,7 @@ alt="figure demonstrating the concept of sampling variation">
 * Let's begin with an observation about arrests in America (*note*: this figure comes from Ronald Christensen (1967) Projected percentage of US population with criminal arrest and conviction records. In *President's Commission on Law Enforcement and Administration of Justice: Task Force Report on Science and Technology*. Washington DC: U.S. Government Printing Office).
 
 <p align="center">
-<img src="fig2.png" width="700px"
+<img src="fig2.png" width="800px"
 alt="Christensen's age-arrest curve">
 </p>
 
