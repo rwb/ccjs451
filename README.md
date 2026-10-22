@@ -581,4 +581,4 @@ alt="summary of results from the Charlotte Domestic Violence Experiment">
 * Our next study examines the [problem or vacant and neglected land in urban spaces](https://www.pnas.org/content/115/12/2946).
 * This study is similar to the Kansas City and Washington DC studies in the sense that the intervention is applicable to the *community*.
 * The article first considers the scale of the problem.
-* It also considers the challenges that arise from conventional responses to the problem.
+* It also considers the challenges that arise from conventional responses to the problem (a leading problem is *gentrification*).
