@@ -552,6 +552,7 @@ alt="Christensen's age-arrest curve">
 ### Lesson 14 - Thursday 10/22/26
 
 * Reminder: Your first prevention reports are due today (I will collect them at the end of class).
+* Our next exam is scheduled for Tuesday 11/3/26.
 * We are continuing our discussion of the [Minneapolis Domestic Violence Experiment](https://www.jstor.org/stable/2095575).
 * The study is based on a *randomized experiment*.
 * A summary of the results based on the police records is presented below.
