@@ -571,3 +571,6 @@ alt="summary of results from the Minneapolis Domestic Violence Experiment">
 <img src="fig4.png" width="600px"
 alt="summary of results from the Charlotte Domestic Violence Experiment">
 </p>
+
+* Like the Minneapolis study, the Charlotte study had problems with treatment noncompliance and missing victim interviews.
+* Discussion: this study illustrates the challenges with replicating field experiments in criminal justice policy.
