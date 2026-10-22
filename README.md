@@ -574,3 +574,10 @@ alt="summary of results from the Charlotte Domestic Violence Experiment">
 
 * Like the Minneapolis study, the Charlotte study had problems with treatment noncompliance and missing victim interviews.
 * Discussion: this study illustrates the challenges with replicating field experiments in criminal justice policy.
+
+---
+
+* Our next study examines the [problem or vacant and neglected land in urban spaces](https://www.pnas.org/content/115/12/2946).
+* This study is similar to the Kansas City and Washington DC studies in the sense that the intervention is applicable to the *community*.
+* The article first considers the scale of the problem.
+* It also considers the challenges that arise from conventional responses to the problem.
