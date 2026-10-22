@@ -547,7 +547,14 @@ alt="Christensen's age-arrest curve">
 * The authors refer to this phenomenon as *upgrading* (based on the severity of the system response).
 * Once each case was randomly assigned to one of the 3 groups, they were all followed for 6 months to determine whether there was new domestic violence.
 * New domestic violence was measured both by police records and victim interviews.
-* The police record results are presented below.
+
+
+### Lesson 14 - Thursday 10/22/26
+
+* Reminder: Your first prevention reports are due today (I will collect them at the end of class).
+* We are continuing our discussion of the [Minneapolis Domestic Violence Experiment](https://www.jstor.org/stable/2095575).
+* The study is based on a *randomized experiment*.
+* A summary of the results based on the police records is presented below.
  
 <p align="center">
 <img src="fig3.png" width="600px"
