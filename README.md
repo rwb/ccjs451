@@ -594,3 +594,5 @@ alt="summary of results from the Charlotte Domestic Violence Experiment">
 5. The Minneapolis Domestic Violence Experiment serves as an example of __________ (a field experiment, a lab experiment, an observational study, an interrupted time series study, none of the above are correct).
 6. How did the results of the Charlotte Domestic Violence Experiment differ from the Minneapolis results?
 7. The concept of *gentrificaton* is most closely linked to _______ (poverty, civil unrest, residential displacement, civic engagement, volunteerism).
+
+---
