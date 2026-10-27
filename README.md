@@ -609,4 +609,6 @@ alt="summary of results from the Charlotte Domestic Violence Experiment">
 * Significant reductions in perceptions of crime and safety concerns in the interview data.
 * Police-reported outcomes of crimes also demonstrated significant declines after the intervention.
 * Contamination-adjusted analyses yielded similar results.
+* Note: Tables 1-3 present difference statistics of the form: mean(crime|treatment) - mean(crime|control)
+* These difference scores are accompanied by confidence intervals - when the confidence interval excludes zero, we say the treatment effect is statistically significant.
 * Supplementary analyses also yielded no evidence of displacement.
