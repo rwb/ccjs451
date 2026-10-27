@@ -596,3 +596,11 @@ alt="summary of results from the Charlotte Domestic Violence Experiment">
 7. The concept of *gentrificaton* is most closely linked to _______ (poverty, civil unrest, residential displacement, civic engagement, volunteerism).
 
 ---
+
+* 541 vacant lots; randomly assigned to different treatment conditions.
+* 445 randomly sampled residents in proximity to the vacant lots
+* Follow-up period: 3 years before the intervention and 3 years after the intervention.
+* Intervention: 3 groups: control group; cleaning and greening group; cleaning only group.
+* 
+* A more lightweight approach to the problem would potentially have several benefits: less expensive, less disruptive, less gentrification.
+* "Main intervention": clean and green lots; followed by maintenance treatment through
