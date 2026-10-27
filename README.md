@@ -577,7 +577,7 @@ alt="summary of results from the Charlotte Domestic Violence Experiment">
 
 ---
 
-* Our next study examines the [problem or vacant and neglected land in urban spaces](https://www.pnas.org/content/115/12/2946).
+* Our next study examines the [problem of vacant and neglected land in urban spaces](https://www.pnas.org/content/115/12/2946).
 * This study is similar to the Kansas City and Washington DC studies in the sense that the intervention is applicable to the *community*.
 * The article first considers the scale of the problem.
 * It also considers the challenges that arise from conventional responses to the problem (a leading problem is *gentrification*).
@@ -597,6 +597,7 @@ alt="summary of results from the Charlotte Domestic Violence Experiment">
 
 ---
 
+* We return to the [vacant land study](https://www.pnas.org/content/115/12/2946) we began discussing in Lesson 14.
 * Core idea: A more lightweight approach to the problem would potentially have several benefits -- less expensive, less disruptive, less gentrification.
 * 110 vacant lot clusters; clusters were randomly assigned to different treatment conditions.
 * 541 vacant lots distributed across the 110 clusters.
