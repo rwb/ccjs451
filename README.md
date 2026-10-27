@@ -597,10 +597,16 @@ alt="summary of results from the Charlotte Domestic Violence Experiment">
 
 ---
 
-* 541 vacant lots; randomly assigned to different treatment conditions.
+* Core idea: A more lightweight approach to the problem would potentially have several benefits -- less expensive, less disruptive, less gentrification.
+* 110 vacant lot clusters; clusters were randomly assigned to different treatment conditions.
+* 541 vacant lots distributed across the 110 clusters.
 * 445 randomly sampled residents in proximity to the vacant lots
 * Follow-up period: 3 years before the intervention and 3 years after the intervention.
-* Intervention: 3 groups: control group; cleaning and greening group; cleaning only group.
-* 
-* A more lightweight approach to the problem would potentially have several benefits: less expensive, less disruptive, less gentrification.
-* "Main intervention": clean and green lots; followed by maintenance treatment through
+* Intervention: 3 groups: control group; cleaning and greening group ($5/sq.meter treatment, $0.50/sq.meter maintenance); cleaning only group.
+* Treatment noncompliance problem.
+* Intent-to-treat (ITT) analysis.
+* Contamination-adjusted ITT analysis (to deal with the uncertainty created by noncompliance in a principled way).
+* Significant reductions in perceptions of crime and safety concerns in the interview data.
+* Police-reported outcomes of crimes also demonstrated significant declines after the intervention.
+* Contamination-adjusted analyses yielded similar results.
+* Supplementary analyses also yielded no evidence of displacement.
