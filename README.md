@@ -582,7 +582,7 @@ alt="summary of results from the Charlotte Domestic Violence Experiment">
 * The article first considers the scale of the problem.
 * It also considers the challenges that arise from conventional responses to the problem (a leading problem is *gentrification*).
 
-### Lesson 14 - Thursday 10/22/26
+### Lesson 15 - Tuesday 10/27/26
 
 * Reminder: Our next exam is scheduled for Tuesday 11/3/26 (one week from today).
 * Here are a few practice questions for you to consider.
