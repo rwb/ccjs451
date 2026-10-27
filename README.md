@@ -589,8 +589,8 @@ alt="summary of results from the Charlotte Domestic Violence Experiment">
 
 1. Random assignment of cases to treatment and control groups guarantees that the groups will be equivalent to each other on outcomes (true/false).
 2. Why is it problematic to rely on victimization survey results in the Kansas City Preventive Patrol Experiment?
-3. The small number of patrol beats in the Kansas City Preventive Patrol Experiment raise concerns about (bias, limited follow-up time periods, treatment contamination, statistical power, none of the above are correct).
-4. The concept of clinical equipoise relates to (only applies to clinical trials, ignorance about the effect of a treatment, unwillingness of victims to participate in interviews, truncated follow-up periods).
+3. The small number of patrol beats in the Kansas City Preventive Patrol Experiment raise concerns about _____ (bias, limited follow-up time periods, treatment contamination, statistical power, none of the above are correct).
+4. The concept of clinical equipoise relates to _____ (only applies to clinical trials, ignorance about the effect of a treatment, unwillingness of victims to participate in interviews, truncated follow-up periods).
 5. The Minneapolis Domestic Violence Experiment serves as an example of __________ (a field experiment, a lab experiment, an observational study, an interrupted time series study, none of the above are correct).
 6. How did the results of the Charlotte Domestic Violence Experiment differ from the Minneapolis results?
 7. The concept of *gentrificaton* is most closely linked to _______ (poverty, civil unrest, residential displacement, civic engagement, volunteerism).
