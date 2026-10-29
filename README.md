@@ -612,7 +612,7 @@ alt="summary of results from the Charlotte Domestic Violence Experiment">
 
 * Reminder: Our next exam is scheduled for Tuesday 11/3/26.
 * The exam will cover Lessons 11-16 (we will discuss the review questions I provided in Lesson 15).
-* Today, we will conclude the [vacant lot study](https://www.pnas.org/content/115/12/2946)).
+* Today, we will conclude the [vacant lot study](https://www.pnas.org/content/115/12/2946).
 * Reductions in perceptions of crime and safety concerns in "main intervention" areas compared to the other groups.
 * Police-reported outcomes of crimes also demonstrated significant declines after the intervention.
 * Contamination-adjusted analyses yielded similar results.
@@ -625,4 +625,6 @@ alt="summary of results from the Charlotte Domestic Violence Experiment">
 * A case study in what Thomas Bernard has framed as the distinction between *good intentions* and *actual performance*.
 * Let's consider some of the details as discussed in the report itself.
 * Key concepts in the first paragraph: prevention, stigmatization, and follow-up period.
-* 
+* Second paragraph tells us about the study site, participants, and random assignment procedure.
+* Recall again that random assignment induces pretreatment equivalence between the groups that are being compared.
+* The third paragraph gives us more information about the study participants and the different experiences of the 2 groups.
