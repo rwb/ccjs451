@@ -618,7 +618,7 @@ alt="summary of results from the Charlotte Domestic Violence Experiment">
 * Contamination-adjusted analyses yielded similar results.
 * Note: Tables 1-3 present difference statistics of the form: mean(crime|treatment) - mean(crime|control)
 * These difference scores are accompanied by confidence intervals - when the confidence interval excludes zero, we say the treatment effect is statistically significant.
-* Supplementary analyses also yielded no evidence of displacement.
+* Supplementary analyses also yielded no evidence of crime displacement.
 ---
 * Next, we consider the long-term results of the [Cambridge-Somerville Youth Study](https://gwern.net/doc/sociology/1978-mccord.pdf).
 * This was a Massachusetts juvenile delinquency prevention study that began in 1939.
