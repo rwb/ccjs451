@@ -613,3 +613,7 @@ alt="summary of results from the Charlotte Domestic Violence Experiment">
 * Note: Tables 1-3 present difference statistics of the form: mean(crime|treatment) - mean(crime|control)
 * These difference scores are accompanied by confidence intervals - when the confidence interval excludes zero, we say the treatment effect is statistically significant.
 * Supplementary analyses also yielded no evidence of displacement.
+
+### Lesson 16 - Thursday 10/29/26
+
+* Reminder: Our next exam is scheduled for Tuesday 11/3/26 (one week from today).
