@@ -91,7 +91,7 @@ For each report, you should identify a prevention program or  from the [Crime So
 * Study 10: Street lighting and crime in New York ([journal article](https://link-springer-com.proxy-um.researchport.umd.edu/content/pdf/10.1007%2Fs10940-020-09490-6.pdf))
 * Study 11: Target hardening and residential burglary ([journal article](https://link-springer-com.proxy-um.researchport.umd.edu/content/pdf/10.1007%2Fs11292-021-09494-7.pdf))
 * Study 12: Retail theft prevention ([journal article](https://link-springer-com.proxy-um.researchport.umd.edu/content/pdf/10.1007/s11292-017-9284-4.pdf))
-* Prevention Report #2 due on Tuesday 11/24/26; submit on paper in class.
+* Prevention Report #2 due on Tuesday ~~~11/24/26~~~ 12/1/26; submit on paper in class.
 * Last Class Day Thursday 12/10/26
 * Exam 3: Friday 12/18; 4:00-5:15pm
 
@@ -619,7 +619,10 @@ alt="summary of results from the Charlotte Domestic Violence Experiment">
 * Note: Tables 1-3 present difference statistics of the form: mean(crime|treatment) - mean(crime|control)
 * These difference scores are accompanied by confidence intervals - when the confidence interval excludes zero, we say the treatment effect is statistically significant.
 * Supplementary analyses also yielded no evidence of crime displacement.
----
+
+### Lesson 17 - Thursday 11/5/26
+
+* Final exam begins with today's material.
 * Next, we consider the long-term results of the [Cambridge-Somerville Youth Study](https://gwern.net/doc/sociology/1978-mccord.pdf).
 * This was a Massachusetts juvenile delinquency prevention study that began in 1939.
 * A case study in what Thomas Bernard has framed as the distinction between *good intentions* and *actual performance*.
