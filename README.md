@@ -91,7 +91,7 @@ For each report, you should identify a prevention program or  from the [Crime So
 * Study 10: Street lighting and crime in New York ([journal article](https://link-springer-com.proxy-um.researchport.umd.edu/content/pdf/10.1007%2Fs10940-020-09490-6.pdf))
 * Study 11: Target hardening and residential burglary ([journal article](https://link-springer-com.proxy-um.researchport.umd.edu/content/pdf/10.1007%2Fs11292-021-09494-7.pdf))
 * Study 12: Retail theft prevention ([journal article](https://link-springer-com.proxy-um.researchport.umd.edu/content/pdf/10.1007/s11292-017-9284-4.pdf))
-* Prevention Report #2 due on Tuesday ~~~11/24/26~~~ 12/1/26; submit on paper in class.
+* Prevention Report #2 due on Tuesday ~~11/24/26~~ 12/1/26; submit on paper in class.
 * Last Class Day Thursday 12/10/26
 * Exam 3: Friday 12/18; 4:00-5:15pm
 
