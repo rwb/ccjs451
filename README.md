@@ -623,7 +623,9 @@ alt="summary of results from the Charlotte Domestic Violence Experiment">
 ### Lesson 17 - Thursday 11/5/26
 
 * Final exam begins with today's material.
-* Next, we consider the long-term results of the [Cambridge-Somerville Youth Study](https://gwern.net/doc/sociology/1978-mccord.pdf).
+* I am extending the second prevention report due date to Tuesday 12/1/26.
+* We briefly discussed the beginning of the [Cambridge-Somerville Youth Study](https://gwern.net/doc/sociology/1978-mccord.pdf) in Lesson 16.
+* We return to it now.
 * This was a Massachusetts juvenile delinquency prevention study that began in 1939.
 * A case study in what Thomas Bernard has framed as the distinction between *good intentions* and *actual performance*.
 * Let's consider some of the details as discussed in the report itself.
