@@ -647,3 +647,5 @@ alt="summary of results from the Charlotte Domestic Violence Experiment">
 * The weight of the objective evidence suggests that the treatment had no effect or even possibly somewhat harmful effects.
 * This conclusion stands in contrast to the positive recollections that many program participants had based on their time in the program.
 * Underscores the importance of Bernard's distinction between *good intentions* and *actual performance*.
+---
+* *Note*: I am not going to cover study #7 (long-term effects of preschool programming) in class this semester. I will commit to putting at least one and possibly two extra credit questions on the final exam that pertain to this article. The next reading we will discuss in class will be study #8, the [Baltimore City Drug Treatment Court](https://ccjs.umd.edu/sites/ccjs.umd.edu/files/pubs/COMPLIANT-The%20Baltimore%20City%20Drug%20Treatment%20Court_0.pdf) project.
