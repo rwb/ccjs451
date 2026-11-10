@@ -644,4 +644,6 @@ alt="summary of results from the Charlotte Domestic Violence Experiment">
 * Consideration of a possible interaction between the "difficult/average" distinction and program effectiveness; no differences emerged (p. 285).
 * Consideration of a possible interaction between juvenile record and effects of the program in adulthood; again, no differences emerged (pp. 285-286).
 * On pp. 286-287, the researchers examined other kinds of outcomes including health-related, family, work, leisure time, and attitudinal outcomes.
-* 
+* The weight of the objective evidence suggests that the treatment had no effect or even possibly somewhat harmful effects.
+* This conclusion stands in contrast to the positive recollections that many program participants had based on their time in the program.
+* Underscores the importance of Bernard's distinction between *good intentions* and *actual performance*.
