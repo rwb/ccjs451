@@ -633,3 +633,15 @@ alt="summary of results from the Charlotte Domestic Violence Experiment">
 * Second paragraph tells us about the study site, participants, and random assignment procedure.
 * Recall again that random assignment induces pretreatment equivalence between the groups that are being compared.
 * The third paragraph gives us more information about the study participants and the different experiences of the 2 groups.
+
+### Lesson 18 - Tuesday 11/10/26
+
+* Reminder #1: I am extending the second prevention report due date to Tuesday 12/1/26.
+* Reminder #2: The final exam is scheduled for Friday 12/18 from 4pm to 5:15pm; please mark your calendars since this is different from our normal meeting time.
+* We are continuing our discussion of the [Cambridge-Somerville Youth Study](https://gwern.net/doc/sociology/1978-mccord.pdf).
+* pp. 284-285 focus on the ways that people were followed over the course of the study.
+* Criminal behavior outcomes were based on official records (Tables 1-2 on page 285); one complex result -- the probability of a second crime -- is discussed on page 286; p(second crime | treatment) > p(second crime | control).
+* Consideration of a possible interaction between the "difficult/average" distinction and program effectiveness; no differences emerged (p. 285).
+* Consideration of a possible interaction between juvenile record and effects of the program in adulthood; again, no differences emerged (pp. 285-286).
+* On pp. 286-287, the researchers examined other kinds of outcomes including health-related, family, work, leisure time, and attitudinal outcomes.
+* 
