@@ -648,7 +648,7 @@ alt="summary of results from the Charlotte Domestic Violence Experiment">
 * This conclusion stands in contrast to the positive recollections that many program participants had based on their time in the program.
 * Underscores the importance of Bernard's distinction between *good intentions* and *actual performance*.
 ---
-* *Note*: I am not going to cover study #7 (long-term effects of preschool programming) in class this semester. I will commit to putting at least one and possibly two extra credit questions on the final exam that pertain to this article. The next reading we will discuss in class will be study #8, the [Baltimore City Drug Treatment Court](https://ccjs.umd.edu/sites/ccjs.umd.edu/files/pubs/COMPLIANT-The%20Baltimore%20City%20Drug%20Treatment%20Court_0.pdf) project. Also, you should ensure that you do not use study #7 as a subject of your second prevention report.
+* *Note*: I am not going to cover study #7 (long-term effects of preschool programming) in class this semester. I will commit to putting at least one and possibly two extra credit questions on the final exam that pertain to this article. The next reading we will discuss in class will be study #8, the [Baltimore City Drug Treatment Court](https://journals.sagepub.com/doi/abs/10.1177/0193841X04269908) project. Also, you should ensure that you do not use study #7 or any of the other studies listed on the syllabus as a subject of your second prevention report.
 
 ### Lesson 19 - Thursday 11/12/26
 
