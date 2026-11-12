@@ -654,4 +654,9 @@ alt="summary of results from the Charlotte Domestic Violence Experiment">
 
 * Reminders: your second prevention reports are due on Tuesday 12/1/26; the final exam is Friday 12/18 from 4 to 5:15pm (regular classroom).
 * Our next reading is the [Baltimore City Drug Treatment Court Study](https://journals.sagepub.com/doi/abs/10.1177/0193841X04269908).
-* 
+* Premise of the study: there is an important link between drugs and crime.
+* Premise of drug treatment courts: treatment vs. punishment orientation will lead to better outcomes.
+* Strong national and international support for these models.
+* Limited research on outcomes (mostly process evaluations at the time of this study).
+* Two earlier outcome studies of the Baltimore City Drug Treatment Court (one based on a quasi-experimental design and the other based on an experimental design with official record outcomes).
+* This study is based on both a randomized design and interview-based outcomes.
