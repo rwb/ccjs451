@@ -660,3 +660,9 @@ alt="summary of results from the Charlotte Domestic Violence Experiment">
 * Limited research on outcomes (mostly process evaluations at the time of this study).
 * Two earlier outcome studies of the Baltimore City Drug Treatment Court (one based on a quasi-experimental design and the other based on an experimental design with official record outcomes).
 * This study is based on both a randomized design and interview-based outcomes.
+
+### Lesson 20 - Tuesday 11/17/26
+
+* Reminders: your second prevention reports are due on Tuesday 12/1/26; the final exam is Friday 12/18 from 4 to 5:15pm (regular classroom).
+* We are currently discussing the [Baltimore City Drug Treatment Court Study](https://journals.sagepub.com/doi/abs/10.1177/0193841X04269908).
+* 
