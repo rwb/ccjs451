@@ -665,4 +665,22 @@ alt="summary of results from the Charlotte Domestic Violence Experiment">
 
 * Reminders: your second prevention reports are due on Tuesday 12/1/26; the final exam is Friday 12/18 from 4 to 5:15pm (regular classroom).
 * We are currently discussing the [Baltimore City Drug Treatment Court Study](https://journals.sagepub.com/doi/abs/10.1177/0193841X04269908).
-* 
+* Total number of cases in the study: N = 235.
+* Randomization between 2/97 and 8/98.
+* Treatment group = drug treatment court; control group = "standard adjudication" (business as usual) (p. 48)
+* Number randomly assigned to drug treatment court = 139; number assigned to control group = 96 (p. 48)
+* Does it cause a problem if the groups are not exactly the same size?
+* Groups were found to be "balanced" (p. 47).
+* p(received treatment | randomly assigned to treatment) = 0.91
+* p(received treatment | randomly assigned to control) = 0.07
+* So, there is some treatment noncompliance in this study (p. 48).
+* Official record outcomes discussed on page 47.
+* p(rearrest within 1 year | treatment) = 0.48; p(rearrest within 1 year | control) = 0.64.
+* p(rearrest within 3 years | treatment) = 0.784; p(rearrest within 3 years | control) = 0.875.
+* rearrest rates within 1 year for drug treatment court participants were also within the range of other states' drug treatment courts (p. 47).
+* attempt-to-locate contacts were first sought by mail; $10 payments for the initial information (p. 48)
+* additional efforts to reach study participants were used in the case of nonresponse or "is not living here" returns (pp. 48-49)
+* p(response | originally enrolled in the study) = 157/(235-16) = 0.717 (either 15 or 16 people died; Table 1 on page 50); this is the response rate.
+* Table 2 on page 50 has a set of comparisons of people who were and were not interviewed.
+* Interviewees were paid $50 to participate in an interview with the outcome measures.
+* A variety of outcome measures were studied based on the interview data (pp. 51-52).
