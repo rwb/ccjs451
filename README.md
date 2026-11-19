@@ -703,6 +703,7 @@ alt="summary of results from the Charlotte Domestic Violence Experiment">
 * Analytically, the issue in the treatment group is:
 
 ```R
+*** Note that the arrest measure considered here is not the official record measure of arrest; intstead it is a question in the survey asking people whether they had been arrested (so, we have "yes"'s, "no"'s, and "don't know's".
 p(arrest) = p(arrest|interviewed)*p(interviewed) + p(arrest|not interviewed|*p(not interviewed)
 p(arrest|interviewed) = 0.495 (from Table 4)
 p(interviewed) = 93/(139-9) = 93/130 = 0.715
