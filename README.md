@@ -684,3 +684,50 @@ alt="summary of results from the Charlotte Domestic Violence Experiment">
 * Table 2 on page 50 has a set of comparisons of people who were and were not interviewed.
 * Interviewees were paid $50 to participate in an interview with the outcome measures.
 * A variety of outcome measures were studied based on the interview data (pp. 51-52).
+
+### Lesson 21 - Thursday 11/19/26
+
+* Reminders: your second prevention reports are due on Tuesday 12/1/26; the final exam is Friday 12/18 from 4 to 5:15pm (regular classroom).
+* We are currently discussing the [Baltimore City Drug Treatment Court Study](https://journals.sagepub.com/doi/abs/10.1177/0193841X04269908).
+* Key outcome measures in the surveys: self-reported crime, drug use variety, drug and alcohol addiction severity, family relationships, mental health issues.
+* Crime and substance use outcomes presented in Table 4
+* Other outcomes presented in Table 6
+* Effective treatment doesn't mean that we completely eliminate the problem targeted by the intervention.
+* Instead, the focus is often on *incremental improvement* and *harm reduction*.
+* So, generally, when a treatment is effective the problem will be improved but not completely solved.
+* The study has treatment noncompliance problems and it looks like these problems have implications for the results.
+* There are people who don't take the survey (some people died and some people didn't respond).
+* A problem is that we don't know what the nonresponders would have said if they had been interviewed.
+* Evidence that responders and nonresponders are pretty similar (but not identical) to each other.
+* One particular cause for concern is the difference in the arrest rates between the interviewed and non-interviewed samples.
+* Analytically, the issue in the treatment group is:
+
+```R
+p(arrest) = p(arrest|interviewed)*p(interviewed) + p(arrest|not interviewed|*p(not interviewed)
+p(arrest|interviewed) = 0.495 (from Table 4)
+p(interviewed) = 93/(139-9) = 93/130 = 0.715
+p(arrest|not interviewed) = ?
+p(not interviewed) = 1-0.715 = 0.285
+
+Lower Bound = 0.495*0.715+0*0.285 = 0.354 
+Upper Bound = 0.495*0.715+1*0.285 = 0.639
+```
+
+* The issue in the control group is:
+
+```R
+p(arrest | interviewed) 0.578 (from Table 4)
+p(interviewed) = 64/(96-7) = 64/89 = 0.719
+p(arrest | not interviewed) = ?
+p(not interviewed) = 1-0.719 = 0.281
+
+Lower Bound = 0.578*0.719+0*0.281 = 0.416
+Upper Bound = 0.578*0.719+1*0.281 = 0.697
+```
+
+* Since the bounds overlap for the 2 groups, we're not actually able to rule out that the groups have similar outcomes or that the control group did better than the treatment group. These sorts of problems always arise with interview data.
+* What can we do to reduce nonresponse?
+* *Note*: we are constrained by the principle of autonomy in the Belmont Report
+* When we interview people for research purposes, there is an ethical imperative to obtain consent.
+* In order to have a credible research project, we also need to promise anonymity or confidentiality.
+* These are issues that commonly arise in prevention research and we have to be mindful of how they might impact our conclusions.
