@@ -735,3 +735,12 @@ Upper Bound = 0.578*0.719+1*0.281 = 0.697
 * When we interview people for research purposes, there is an ethical imperative to obtain consent.
 * In order to have a credible research project, we also need to promise anonymity or confidentiality.
 * These are issues that commonly arise in prevention research and we have to be mindful of how they might impact our conclusions.
+---
+
+* We now turn to the issue of [police officers in schools](https://www.tandfonline.com/doi/pdf/10.1080/07418825.2011.615754?casa_token=rFqnkcuWxLQAAAAA:k4hzBv_jbREMkG0_V0TghvbXMN0r0i7tXR64Erg7HYJXjU1a4yvm4t0JUIIJhZ4X9tg_PYxSCCo).
+* Paper was published in 2013 so the reference period at the beginning is the early 2000's (an increasingly prominent police presence in schools over the time period).
+* There has been a significant federal involvement in the national increase in school police deployment.
+* An important driver was concerns about safety and juvenile crime.
+* They also arose during a time when school officials were being legally constrained to limit suspensions and exclusions from public schools.
+* Transfer of school discipline needs to the legal and criminal justice system.
+* Benefits and concerns associated with the prevalent link between schools and criminal justice agencies.
