@@ -730,13 +730,16 @@ Upper Bound = 0.578*0.719+1*0.281 = 0.697
 ```
 
 * Since the bounds overlap for the 2 groups, we're not actually able to rule out that the groups have similar outcomes or that the control group did better than the treatment group. These sorts of problems always arise with interview data.
-* What can we do to reduce nonresponse?
+* So, the conclusions we can draw from this study are mixed: on the one hand, the treatment group consistently performs better than the control group on criminal justice and substance use-related outcomes; on the other hand, the study has important limitations.
+* For example, what can we do to reduce nonresponse?
 * *Note*: we are constrained by the principle of autonomy in the Belmont Report
 * When we interview people for research purposes, there is an ethical imperative to obtain consent.
 * In order to have a credible research project, we also need to promise anonymity or confidentiality.
 * These are issues that commonly arise in prevention research and we have to be mindful of how they might impact our conclusions.
----
 
+### Lesson 22 - Tuesday 11/24/26
+
+* Reminders: your second prevention reports are due on Tuesday 12/1/26; the final exam is Friday 12/18 from 4 to 5:15pm (regular classroom).
 * We now turn to the issue of [police officers in schools](https://www.tandfonline.com/doi/pdf/10.1080/07418825.2011.615754?casa_token=rFqnkcuWxLQAAAAA:k4hzBv_jbREMkG0_V0TghvbXMN0r0i7tXR64Erg7HYJXjU1a4yvm4t0JUIIJhZ4X9tg_PYxSCCo).
 * Paper was published in 2013 so the reference period at the beginning is the early 2000's (an increasingly prominent police presence in schools over the time period).
 * There has been a significant federal involvement in the national increase in school police deployment.
