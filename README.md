@@ -700,6 +700,7 @@ alt="summary of results from the Charlotte Domestic Violence Experiment">
 * A problem is that we don't know what the nonresponders would have said if they had been interviewed.
 * Evidence that responders and nonresponders are pretty similar (but not identical) to each other.
 * One particular cause for concern is the difference in the arrest rates between the interviewed and non-interviewed samples.
+* Raises questions about whether the interviewed and non-interviewed cases are similar to each other on average.
 * Analytically, the issue in the treatment group is:
 
 ```R
@@ -730,11 +731,13 @@ Upper Bound = 0.578*0.719+1*0.281 = 0.697
 ```
 
 * Since the bounds overlap for the 2 groups, we're not actually able to rule out that the groups have similar outcomes or that the control group did better than the treatment group. These sorts of problems always arise with interview data.
-* So, the conclusions we can draw from this study are mixed: on the one hand, the treatment group consistently performs better than the control group on criminal justice and substance use-related outcomes; on the other hand, the study has important limitations.
-* For example, what can we do to reduce nonresponse?
+* So, the conclusions we can draw from this study are mixed: on the one hand, the treatment group (created by randomization) consistently performs better than the control group on criminal justice and substance use-related outcomes; on the other hand, the study has important limitations.
+* For example, lower response rates have implications for statistical power and they also create uncertainty -- we don't know what the missing people would have said if they had been interviewed.
+* What can we do to reduce nonresponse?
 * *Note*: we are constrained by the principle of autonomy in the Belmont Report
 * When we interview people for research purposes, there is an ethical imperative to obtain consent.
 * In order to have a credible research project, we also need to promise anonymity or confidentiality.
+* Key feature of this study: we have a credible counterfactual condition (i.e., we have a convincing answer to the question of what would have happened in the treatment group if there had been no treatment -- the answer is: the control group outcome).
 * These are issues that commonly arise in prevention research and we have to be mindful of how they might impact our conclusions.
 
 ### Lesson 22 - Tuesday 11/24/26
